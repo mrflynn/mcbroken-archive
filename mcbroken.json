@@ -349,7 +349,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "KS",
@@ -589,7 +589,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -1309,7 +1309,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -1709,7 +1709,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -1849,7 +1849,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -1949,7 +1949,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -2849,7 +2849,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -3149,7 +3149,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -3269,7 +3269,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -3309,7 +3309,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -4269,7 +4269,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": "TX",
@@ -4309,7 +4309,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -4689,7 +4689,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -5329,7 +5329,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -6569,7 +6569,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -7049,7 +7049,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -9169,7 +9169,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": "TX",
@@ -9949,7 +9949,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -9969,7 +9969,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -11129,7 +11129,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -11589,7 +11589,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -13429,7 +13429,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -13509,7 +13509,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CO",
@@ -13669,7 +13669,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CO",
@@ -13869,7 +13869,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CO",
@@ -14229,7 +14229,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CO",
@@ -14629,7 +14629,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": "TX",
@@ -15309,7 +15309,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CO",
@@ -15489,7 +15489,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CO",
@@ -16829,7 +16829,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "WY",
@@ -16909,7 +16909,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -17029,7 +17029,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "WY",
@@ -17049,7 +17049,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "WY",
@@ -17809,7 +17809,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -18149,7 +18149,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -18369,7 +18369,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -18729,7 +18729,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": "TX",
@@ -18949,7 +18949,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NM",
@@ -19389,7 +19389,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CO",
@@ -19649,7 +19649,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NM",
@@ -20249,7 +20249,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NM",
@@ -20809,7 +20809,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CO",
@@ -21109,7 +21109,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "MT",
@@ -21449,7 +21449,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -21769,7 +21769,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NM",
@@ -21789,7 +21789,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -21989,7 +21989,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "TX",
@@ -22129,7 +22129,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NM",
@@ -22210,6 +22210,27 @@
     },
     "properties": {
       "is_broken": false,
+      "is_active": false,
+      "dot": "inactive",
+      "state": "MI",
+      "city": "Bad Axe",
+      "street": "871 N Van Dyke",
+      "country": "USA",
+      "last_checked": "Checked 23 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-83.68337",
+        "41.675065",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "MT",
@@ -22429,7 +22450,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "MT",
@@ -22569,7 +22590,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "MT",
@@ -22889,7 +22910,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "UT",
@@ -23329,7 +23350,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "UT",
@@ -23869,7 +23890,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "UT",
@@ -24149,7 +24170,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "UT",
@@ -24209,7 +24230,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "UT",
@@ -24309,7 +24330,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "UT",
@@ -24329,7 +24350,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": "UT",
@@ -24549,7 +24570,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -24589,7 +24610,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "UT",
@@ -24829,7 +24850,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": "UT",
@@ -25069,7 +25090,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -25309,7 +25330,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -25369,7 +25390,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "MT",
@@ -25889,7 +25910,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -26689,7 +26710,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -26969,7 +26990,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -26989,7 +27010,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "ID",
@@ -27029,7 +27050,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -27689,7 +27710,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -28249,7 +28270,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -28589,7 +28610,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -28669,7 +28690,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -28889,7 +28910,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -28929,7 +28950,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -29129,7 +29150,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -29229,7 +29250,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -29329,7 +29350,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -29529,7 +29550,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -29769,7 +29790,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -29949,7 +29970,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -30049,7 +30070,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -30429,7 +30450,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "WA",
@@ -30469,7 +30490,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "ID",
@@ -30749,7 +30770,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NV",
@@ -31049,7 +31070,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -31209,7 +31230,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "WA",
@@ -31989,7 +32010,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NV",
@@ -32009,7 +32030,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NV",
@@ -32049,7 +32070,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "WA",
@@ -32209,7 +32230,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NV",
@@ -32229,7 +32250,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NV",
@@ -32249,7 +32270,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "AZ",
@@ -33229,7 +33250,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "NV",
@@ -33849,7 +33870,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "WA",
@@ -33949,7 +33970,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "WA",
@@ -34329,7 +34350,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "WA",
@@ -34689,7 +34710,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": "WA",
@@ -35369,7 +35390,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CA",
@@ -35669,7 +35690,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "OR",
@@ -35689,7 +35710,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CA",
@@ -35729,7 +35750,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CA",
@@ -36609,7 +36630,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CA",
@@ -37209,7 +37230,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": "CA",
@@ -46409,7 +46430,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -47789,7 +47810,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -47909,7 +47930,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": null,
@@ -48069,7 +48090,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -49049,7 +49070,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -49689,7 +49710,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -49749,7 +49770,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -50909,7 +50930,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -51969,7 +51990,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -52069,7 +52090,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -52749,7 +52770,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -52789,7 +52810,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -54349,7 +54370,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -54469,7 +54490,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -54489,7 +54510,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -54789,7 +54810,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -57009,7 +57030,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -57509,7 +57530,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -57589,7 +57610,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -57869,7 +57890,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -58509,7 +58530,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -59989,7 +60010,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -60829,7 +60850,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -61389,7 +61410,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -62189,7 +62210,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -63349,7 +63370,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -63569,7 +63590,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -64809,7 +64830,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -65829,7 +65850,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -66169,7 +66190,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": null,
@@ -66289,7 +66310,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -66329,7 +66350,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -66429,7 +66450,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -66649,7 +66670,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": null,
@@ -66829,7 +66850,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -67629,7 +67650,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -67869,7 +67890,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": null,
@@ -68209,7 +68230,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -68269,7 +68290,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -68709,7 +68730,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -68769,7 +68790,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": null,
@@ -68929,7 +68950,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -71429,7 +71450,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -72089,7 +72110,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -72349,7 +72370,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -72649,7 +72670,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -73489,7 +73510,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -73569,7 +73590,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -73929,7 +73950,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -74209,7 +74230,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -74989,7 +75010,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": null,
@@ -75709,7 +75730,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -76029,7 +76050,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -76269,7 +76290,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -76549,7 +76570,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -76969,7 +76990,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -77369,7 +77390,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -77909,7 +77930,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -78029,7 +78050,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -78069,7 +78090,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -78409,7 +78430,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -78609,7 +78630,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -79609,7 +79630,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -79989,7 +80010,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -80549,7 +80570,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -81149,7 +81170,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -81809,7 +81830,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -81949,7 +81970,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -82149,7 +82170,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -82449,7 +82470,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -82769,7 +82790,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -83049,7 +83070,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": null,
@@ -83089,7 +83110,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -83109,7 +83130,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
       "dot": "broken",
       "state": null,
@@ -83529,7 +83550,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -86709,7 +86730,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -87449,7 +87470,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -90049,7 +90070,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -91269,7 +91290,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -91549,7 +91570,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -94049,7 +94070,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
@@ -96529,7 +96550,7 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
       "dot": "working",
       "state": null,
