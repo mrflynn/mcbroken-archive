@@ -2,27 +2,6 @@
   {
     "geometry": {
       "coordinates": [
-        "-111.976219",
-        "33.641069",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "AZ",
-      "city": "Scottsdale",
-      "street": "4830 E Bell Rd",
-      "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
         "-116.214174",
         "43.593863",
         0
@@ -36,6 +15,69 @@
       "state": "ID",
       "city": "Boise",
       "street": "1185 Vista Ave",
+      "country": "USA",
+      "last_checked": "Checked 24 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-112.357502",
+        "33.465173",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "AZ",
+      "city": "Goodyear",
+      "street": "13870 W Mcdowell Rd",
+      "country": "USA",
+      "last_checked": "Checked 17 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-114.007267",
+        "35.218357",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AZ",
+      "city": "Kingman",
+      "street": "3264 E Andy Devine",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-115.061658",
+        "36.174877",
+        0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "NV",
+      "city": "Las Vegas",
+      "street": "836 N Nellis Blvd",
       "country": "USA",
       "last_checked": "Checked 3 minutes ago"
     },
@@ -3264,9 +3306,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Mississauga",
       "street": "6650 Meadowvale Town Centre Circle",
@@ -4090,7 +4132,7 @@
       "city": "Burlington",
       "street": "(Wal-Mart) 4515 Dundas St West   R.R.#1 ",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -8143,7 +8185,7 @@
       "city": "Kingston",
       "street": "(Wal-Mart) 1130 Midland Avenue ",
       "country": "CA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -8269,7 +8311,7 @@
       "city": "Sarnia",
       "street": "1330 Exmouth Street",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -8353,7 +8395,7 @@
       "city": "Chatham",
       "street": "(Wal-Mart) 801 St. Clair St., Unit 300 ",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -9354,9 +9396,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Nepean",
       "street": "(Wal-Mart) 3651 Strandherd Drive ",
@@ -11496,9 +11538,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Laval",
       "street": "(Wal-Mart) 700, Autoroute Chomedey Ouest ",
@@ -12154,7 +12196,7 @@
       "city": "Lasalle",
       "street": "(Wal-Mart) 6797, Boul. Newman  ",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -12238,7 +12280,7 @@
       "city": "Laval",
       "street": "(Wal-Mart) 5205, Boul. Val-Des-Brises ",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -15619,7 +15661,7 @@
       "city": "Saint-Apollinaire",
       "street": "470, Route 273",
       "country": "CA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -18510,9 +18552,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Halifax",
       "street": "331 Herring Cove Road",
@@ -19924,7 +19966,7 @@
       "city": "Winnipeg",
       "street": "(Wal-Mart) 1001 Empress Street ",
       "country": "CA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 2 minutes ago"
     },
     "type": "Feature"
   },
@@ -20470,7 +20512,7 @@
       "city": "Dauphin",
       "street": "Box 826-1461 Main St. S",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "1 minute ago"
     },
     "type": "Feature"
   },
@@ -21562,7 +21604,7 @@
       "city": "Saskatoon",
       "street": "1803 Idylwyld Drive, North",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21583,7 +21625,7 @@
       "city": "Saskatoon",
       "street": "2225 22Nd Street West",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21604,7 +21646,7 @@
       "city": "Saskatoon",
       "street": "300 Confederation Drive",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21625,7 +21667,7 @@
       "city": "Martensville",
       "street": "100 Centennial Drive North",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21646,7 +21688,7 @@
       "city": "Saskatoon",
       "street": "(Wal-Mart) 225 Betts Ave. ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21667,7 +21709,7 @@
       "city": "Swift Current",
       "street": "(Wal-Mart) 1800 - 22Nd Ave. ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21688,7 +21730,7 @@
       "city": "Swift Current",
       "street": "420 S. Service Road East ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21709,7 +21751,7 @@
       "city": "North Battleford",
       "street": "(Wal-Mart) 601 Carlton Trail ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21730,7 +21772,7 @@
       "city": "North Battleford",
       "street": "11102 Railway Avenue East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21751,7 +21793,7 @@
       "city": "Kindersley",
       "street": "620 - 12Th Avenue East",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21772,7 +21814,7 @@
       "city": "Meadow Lake",
       "street": "615-9Th St. W.",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21793,7 +21835,7 @@
       "city": "Medicine Hat",
       "street": "3375 Dunmore Rd. S.E.",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21814,7 +21856,7 @@
       "city": "Medicine Hat",
       "street": "(Wal-Mart) 2051 Strachan Road Se ",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21856,7 +21898,7 @@
       "city": "Medicine Hat",
       "street": "2886 Box Springs Blvd N.W.",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -21877,7 +21919,7 @@
       "city": "Lloydminster",
       "street": "1803 50Th Avenue",
       "country": "CA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -26014,7 +26056,7 @@
       "city": "Grande Prairie",
       "street": "10714 - 79 Avenue",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -26098,7 +26140,7 @@
       "city": "Vernon",
       "street": "5301-25Th Ave",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -26182,7 +26224,7 @@
       "city": "Kelowna",
       "street": "(Wal-Mart) 1555 Banks Road ",
       "country": "CA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
