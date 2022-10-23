@@ -2,195 +2,6 @@
   {
     "geometry": {
       "coordinates": [
-        "9.93202101",
-        "51.55304184",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Göttingen",
-      "street": "Hannoversche Str. 38",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "7.13634074",
-        "49.26848148",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "St. Ingbert",
-      "street": "Südstr. 1/60",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.94532873",
-        "54.65674325",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Kappeln",
-      "street": "Eckernförder Str. 9b",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.12083656",
-        "53.9001714",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": null,
-      "city": "Brunsbüttel",
-      "street": "Olof-Palme-Allee 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.58450182",
-        "49.57743306",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Neustadt an der Aisch",
-      "street": "Karl-Eibl-Str. 41",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.6639045",
-        "49.20241725",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Cham",
-      "street": "Werner-von-Siemens-Str. 35",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "8.03671847",
-        "48.6412336",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Achern",
-      "street": "Am Achernsee 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "6.68222056",
-        "51.18330784",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Neuss",
-      "street": "Moselstr. 4",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "12.22251374",
-        "49.93638945",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Mitterteich",
-      "street": "Ludwig-Erhard-Str. 9",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
         "10.21872208",
         "53.33915473",
         0
@@ -204,48 +15,6 @@
       "state": null,
       "city": "Winsen",
       "street": "Max-Planck-Str. 12",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "9.79744511",
-        "52.3175084",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Laatzen",
-      "street": "Karlsruher Str. 12a",
-      "country": "DE",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "10.37858504",
-        "52.04989135",
-        0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": null,
-      "city": "Salzgitter",
-      "street": "Am Pfingstanger 20",
       "country": "DE",
       "last_checked": "Checked 30 minutes ago"
     },
@@ -1521,9 +1290,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Saarbrücken",
       "street": "Reichsstr. 1",
@@ -2949,9 +2718,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Biberach a.d. Riß",
       "street": "Leipzigstr. 39",
@@ -4734,9 +4503,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
+      "dot": "broken",
       "state": null,
       "city": "Lehrte",
       "street": "Burgdorfer Str. 106",
@@ -5196,9 +4965,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Berlin",
       "street": "Osdorferstr. 125a",
@@ -6631,7 +6400,7 @@
       "city": "Kaiserslautern",
       "street": "Opelkreisel 30",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6652,7 +6421,7 @@
       "city": "Biedenkopf",
       "street": "Georg-Kramer-Str. 16",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6673,7 +6442,7 @@
       "city": "Bremerhaven",
       "street": "Nansenstr. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6715,7 +6484,7 @@
       "city": "Wolfenbüttel",
       "street": "Goslarsche Str. 2",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -6736,7 +6505,7 @@
       "city": "Neu-Isenburg",
       "street": "Hermesstr. 4",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 30 minutes ago"
     },
     "type": "Feature"
   },
@@ -9333,9 +9102,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Achim",
       "street": "Margarete-Steiff-Allee 4",
@@ -11209,7 +10978,7 @@
       "city": "Hennef",
       "street": "Alfred-Nobel-Str. 3",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11230,7 +10999,7 @@
       "city": "Jüchen",
       "street": "Neusser Str. 204",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -11293,7 +11062,7 @@
       "city": "Metzingen",
       "street": "Ulmer Str. 15",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11398,7 +11167,7 @@
       "city": "Bochum",
       "street": "Alte Wittener Str. 38",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -11461,7 +11230,7 @@
       "city": "Emsbüren",
       "street": "Paxtonstr. 1",
       "country": "DE",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 28 minutes ago"
     },
     "type": "Feature"
   },
@@ -11482,7 +11251,7 @@
       "city": "Bad Grönenbach",
       "street": "Weissenbachstr. 4",
       "country": "DE",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 29 minutes ago"
     },
     "type": "Feature"
   },
@@ -11706,9 +11475,9 @@
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": null,
       "city": "Köln",
       "street": "Spenrather Weg 11",
