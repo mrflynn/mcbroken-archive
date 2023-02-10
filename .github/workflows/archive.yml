@@ -3,7 +3,7 @@ name: Data Archive
 on:
   push:
   schedule:
-  - cron: '7,37 * * * *'
+  - cron: '37 * * * *'
 
 jobs:
   scheduled:
@@ -13,7 +13,7 @@ jobs:
     - name: Download recently changed data.
       run: |
         curl --compressed https://mcbroken2.nyc3.digitaloceanspaces.com/markers.json \
-          | jq '[ .features[] | select(.properties.last_checked | match("[0-9]+").string | tonumber < 31) ]' > mcbroken.json
+          | jq '[ .features[] | select(.properties.last_checked | match("[0-9]+").string | tonumber < 61) ]' > mcbroken.json
     - name: Commit data
       run: |
         git config user.name "Archive"
