@@ -2,29 +2,50 @@
   {
     "geometry": {
       "coordinates": [
-        "-96.304507",
-        "39.209663",
+        "-73.98393",
+        "40.743156",
         0.0
       ],
       "type": "Point"
     },
     "properties": {
       "is_broken": false,
-      "is_active": false,
-      "dot": "inactive",
-      "state": "KS",
-      "city": "Wamego",
-      "street": "701 E 24 Hwy",
+      "is_active": true,
+      "dot": "working",
+      "state": "NY",
+      "city": "New York",
+      "street": "401 Park Ave S",
       "country": "USA",
-      "last_checked": "Checked 19 minutes ago"
+      "last_checked": "Checked 46 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-74.161499",
-        "40.771854",
+        "-73.930984",
+        "40.766312",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "NY",
+      "city": "Long Island City",
+      "street": "3146 21st St",
+      "country": "USA",
+      "last_checked": "Checked 14 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-74.044548",
+        "40.854877",
         0.0
       ],
       "type": "Point"
@@ -34,10 +55,52 @@
       "is_active": true,
       "dot": "working",
       "state": "NJ",
-      "city": "Newark",
-      "street": "621-635 Broadway",
+      "city": "Little Ferry",
+      "street": "319 Route 46 East",
       "country": "USA",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-73.914978",
+        "40.844677",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "NY",
+      "city": "Bronx",
+      "street": "1 W Mount Eden Ave",
+      "country": "USA",
+      "last_checked": "Checked 15 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-73.876884",
+        "40.840401",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "NY",
+      "city": "Bronx",
+      "street": "1101 E Tremont Ave",
+      "country": "USA",
+      "last_checked": "Checked 48 minutes ago"
     },
     "type": "Feature"
   },
@@ -58,15 +121,15 @@
       "city": "Orange",
       "street": "145-147 Main St",
       "country": "USA",
-      "last_checked": "Checked 8 minutes ago"
+      "last_checked": "Checked 58 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-73.610306",
-        "40.73241",
+        "-74.184189",
+        "40.42041",
         0.0
       ],
       "type": "Point"
@@ -75,11 +138,11 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "NY",
-      "city": "Garden City",
-      "street": "637 Stewart Ave",
+      "state": "NJ",
+      "city": "Hazlet",
+      "street": "31-20 Route 35",
       "country": "USA",
-      "last_checked": "Checked 19 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -100,15 +163,15 @@
       "city": "Parsippany",
       "street": "3111 Rt 46 E",
       "country": "USA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 58 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-74.160469",
-        "41.09766",
+        "-74.395988",
+        "40.908764",
         0.0
       ],
       "type": "Point"
@@ -118,18 +181,18 @@
       "is_active": true,
       "dot": "working",
       "state": "NJ",
-      "city": "Mahwah",
-      "street": "150 Rt 17 S",
+      "city": "Boonton",
+      "street": "568 Myrtle Ave",
       "country": "USA",
-      "last_checked": "Checked 20 minutes ago"
+      "last_checked": "Checked 45 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-73.384857",
-        "41.127808",
+        "-74.559296",
+        "40.567574",
         0.0
       ],
       "type": "Point"
@@ -138,40 +201,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "CT",
-      "city": "Norwalk",
-      "street": "531 Westport Ave",
+      "state": "NJ",
+      "city": "Bridgewater",
+      "street": "680 Promenade Blvd",
       "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
+      "last_checked": "Checked 11 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-73.477608",
-        "41.386726",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "CT",
-      "city": "Danbury",
-      "street": "2 Lake Ave",
-      "country": "USA",
-      "last_checked": "Checked 16 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-72.988792",
-        "40.941151",
+        "-73.931435",
+        "41.725918",
         0.0
       ],
       "type": "Point"
@@ -181,18 +223,18 @@
       "is_active": true,
       "dot": "working",
       "state": "NY",
-      "city": "Miller Place",
-      "street": "340 Rt 25a",
+      "city": "Poughkeepsie",
+      "street": "Mid Hudson Center",
       "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-75.098618",
-        "40.932419",
+        "-75.345975",
+        "40.643841",
         0.0
       ],
       "type": "Point"
@@ -201,19 +243,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "NJ",
-      "city": "Columbia",
-      "street": "10 Simpson Rd",
+      "state": "PA",
+      "city": "Bethlehem",
+      "street": "2610 Easton Ave",
       "country": "USA",
-      "last_checked": "Checked 19 minutes ago"
+      "last_checked": "Checked 38 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-75.372718",
-        "41.12259",
+        "-75.385566",
+        "40.609145",
         0.0
       ],
       "type": "Point"
@@ -223,52 +265,10 @@
       "is_active": true,
       "dot": "broken",
       "state": "PA",
-      "city": "Mt. Pocono",
-      "street": "Rt. 940 & Oak Street Shopping Center",
+      "city": "Bethlehem",
+      "street": "442 Wyandotte St",
       "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-72.7718",
-        "41.325134",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "CT",
-      "city": "North Branford",
-      "street": "280 Branford Road",
-      "country": "USA",
-      "last_checked": "Checked 18 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-73.031984",
-        "41.580669",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "CT",
-      "city": "Waterbury",
-      "street": "184 Chase Ave",
-      "country": "USA",
-      "last_checked": "Checked 40 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -289,36 +289,162 @@
       "city": "Audubon",
       "street": "635 S Trooper Rd",
       "country": "USA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 52 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-72.537916",
-        "41.77155",
+        "-75.53362",
+        "40.194585",
         0.0
       ],
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
-      "state": "CT",
-      "city": "Manchester",
-      "street": "70 W Center Rd",
+      "dot": "working",
+      "state": "PA",
+      "city": "Royersford",
+      "street": "308 N Lewis Rd",
       "country": "USA",
-      "last_checked": "Checked 43 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-75.29072",
-        "41.956321",
+        "-76.310991",
+        "40.37812",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "PA",
+      "city": "Myerstown",
+      "street": "295 W Lincoln",
+      "country": "USA",
+      "last_checked": "Checked 23 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-76.055751",
+        "39.698322",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MD",
+      "city": "Rising Sun",
+      "street": "10 Rising Sun Town Center",
+      "country": "USA",
+      "last_checked": "Checked 48 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-76.432817",
+        "40.350011",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "PA",
+      "city": "Lebanon",
+      "street": "1202 W Maple St",
+      "country": "USA",
+      "last_checked": "Checked 36 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-76.424998",
+        "40.313299",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "PA",
+      "city": "Lebanon",
+      "street": "1725 Quentin Rd",
+      "country": "USA",
+      "last_checked": "Checked 15 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-76.326144",
+        "40.027261",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "PA",
+      "city": "Lancaster",
+      "street": "1295 Millersville Pike",
+      "country": "USA",
+      "last_checked": "Checked 33 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-76.484491",
+        "40.33614",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "PA",
+      "city": "Cleona",
+      "street": "493 W Pen Ave",
+      "country": "USA",
+      "last_checked": "Checked 36 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-75.975991",
+        "42.337941",
         0.0
       ],
       "type": "Point"
@@ -328,18 +454,18 @@
       "is_active": true,
       "dot": "working",
       "state": "NY",
-      "city": "Hancock",
-      "street": "86 W Main St",
+      "city": "Whitney Point",
+      "street": "2972 New York Rt 11",
       "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-72.785437",
-        "42.025836",
+        "-73.204756",
+        "42.895475",
         0.0
       ],
       "type": "Point"
@@ -348,19 +474,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "MA",
-      "city": "Southwick",
-      "street": "214 College Hwy",
+      "state": "VT",
+      "city": "Bennington",
+      "street": "112 Northside Dr",
       "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
+      "last_checked": "Checked 15 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-75.66112",
-        "39.633093",
+        "-76.987064",
+        "40.240814",
         0.0
       ],
       "type": "Point"
@@ -369,40 +495,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "DE",
-      "city": "Bear",
-      "street": "1401 Governers Pl",
+      "state": "PA",
+      "city": "Mechanicsburg",
+      "street": "5550 Carlisle Pike",
       "country": "USA",
-      "last_checked": "Checked 12 minutes ago"
+      "last_checked": "Checked 13 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-72.604074",
-        "42.111282",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MA",
-      "city": "Springfield",
-      "street": "2392 Main St",
-      "country": "USA",
-      "last_checked": "Checked 26 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.317194",
-        "41.026499",
+        "-76.464459",
+        "39.31343",
         0.0
       ],
       "type": "Point"
@@ -411,40 +516,19 @@
       "is_broken": true,
       "is_active": true,
       "dot": "broken",
-      "state": "PA",
-      "city": "Mifflinville",
-      "street": "Route 339 And I 80",
+      "state": "MD",
+      "city": "Baltimore",
+      "street": "1000 Eastern Blvd",
       "country": "USA",
-      "last_checked": "Checked 26 minutes ago"
+      "last_checked": "Checked 33 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-75.558162",
-        "39.158585",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "DE",
-      "city": "Dover",
-      "street": "1424 Forrest Ave",
-      "country": "USA",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.402523",
-        "39.337771",
+        "-76.577897",
+        "39.384705",
         0.0
       ],
       "type": "Point"
@@ -455,59 +539,17 @@
       "dot": "working",
       "state": "MD",
       "city": "Baltimore",
-      "street": "3423 Eastern Blvd",
+      "street": "6830 Loch Raven Blvd",
       "country": "USA",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-76.459196",
-        "39.378255",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Nottingham",
-      "street": "8483 Cordon Way",
-      "country": "USA",
-      "last_checked": "Checked 17 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-71.150685",
-        "41.695548",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MA",
-      "city": "Fall River",
-      "street": "300 Plymouth Ave",
-      "country": "USA",
-      "last_checked": "Checked 60 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.566954",
-        "39.372808",
+        "-76.56914",
+        "39.29579",
         0.0
       ],
       "type": "Point"
@@ -518,93 +560,9 @@
       "dot": "working",
       "state": "MD",
       "city": "Baltimore",
-      "street": "7309 Mc Clean Blvd",
+      "street": "3401 Pulaski Hwy",
       "country": "USA",
-      "last_checked": "Checked 41 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.609934",
-        "39.323284",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Baltimore",
-      "street": "2840 Greenmount Ave",
-      "country": "USA",
-      "last_checked": "Checked 36 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-71.58847",
-        "42.339638",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MA",
-      "city": "Marlborough",
-      "street": "155 Boston Post Rd W",
-      "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-71.21022",
-        "41.983098",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MA",
-      "city": "Norton",
-      "street": "175 Mansfield Ave",
-      "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.693723",
-        "39.3477",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Baltimore",
-      "street": "4205-15 Mortimer Ave",
-      "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
+      "last_checked": "Checked 20 minutes ago"
     },
     "type": "Feature"
   },
@@ -625,111 +583,6 @@
       "city": "Linthicum Heights",
       "street": "778 A Elkridge Landing Rd",
       "country": "USA",
-      "last_checked": "Checked 10 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.686749",
-        "39.137342",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Severn",
-      "street": "810 Reece Road",
-      "country": "USA",
-      "last_checked": "Checked 31 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.491062",
-        "38.948851",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Annapolis",
-      "street": "897 Bay Ridge Rd",
-      "country": "USA",
-      "last_checked": "Checked 43 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.809598",
-        "39.145282",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Jessup",
-      "street": "8700 Washington Blvd",
-      "country": "USA",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-71.107206",
-        "42.338614",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MA",
-      "city": "Boston",
-      "street": "340-350 Longwood Ave",
-      "country": "USA",
-      "last_checked": "Checked 42 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-71.029312",
-        "42.276619",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MA",
-      "city": "Quincy",
-      "street": "275 Hancock St",
-      "country": "USA",
       "last_checked": "Checked 59 minutes ago"
     },
     "type": "Feature"
@@ -737,29 +590,8 @@
   {
     "geometry": {
       "coordinates": [
-        "-76.795346",
-        "38.900029",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Mitchellville",
-      "street": "12168 Central Ave",
-      "country": "USA",
-      "last_checked": "Checked 17 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.104694",
-        "43.053076",
+        "-73.609414",
+        "43.314727",
         0.0
       ],
       "type": "Point"
@@ -769,18 +601,39 @@
       "is_active": true,
       "dot": "working",
       "state": "NY",
-      "city": "Syracuse",
-      "street": "2442 Erie Blvd E",
+      "city": "Queensbury",
+      "street": "364 Dix Ave",
       "country": "USA",
-      "last_checked": "Checked 45 minutes ago"
+      "last_checked": "Checked 47 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-76.881184",
-        "38.927855",
+        "-71.25749",
+        "42.440211",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "MA",
+      "city": "Lexington",
+      "street": "Rte 128 North",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-71.320358",
+        "42.719288",
         0.0
       ],
       "type": "Point"
@@ -789,9 +642,30 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "MD",
-      "city": "Landover",
-      "street": "7708 Landover Rd",
+      "state": "NH",
+      "city": "Pelham",
+      "street": "113 Bridge Street",
+      "country": "USA",
+      "last_checked": "Checked 45 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-70.923416",
+        "42.502739",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MA",
+      "city": "Salem",
+      "street": "1 Traders Way",
       "country": "USA",
       "last_checked": "Checked 48 minutes ago"
     },
@@ -800,92 +674,8 @@
   {
     "geometry": {
       "coordinates": [
-        "-77.16463",
-        "39.156299",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Gaithersburg",
-      "street": "18273 Flower Hill Way",
-      "country": "USA",
-      "last_checked": "Checked 44 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.892449",
-        "38.868422",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Capitol Heights",
-      "street": "1420 Addison Rd S",
-      "country": "USA",
-      "last_checked": "Checked 38 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.949857",
-        "38.893411",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "DC",
-      "city": "Washington",
-      "street": "3901 Minnesota Avenue Ne",
-      "country": "USA",
-      "last_checked": "Checked 39 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.980218",
-        "38.899242",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "DC",
-      "city": "Washington",
-      "street": "1635 Benning Rd",
-      "country": "USA",
-      "last_checked": "Checked 45 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.430143",
-        "39.407569",
+        "-77.410903",
+        "39.373969",
         0.0
       ],
       "type": "Point"
@@ -896,59 +686,17 @@
       "dot": "broken",
       "state": "MD",
       "city": "Frederick",
-      "street": "423 Jefferson St",
+      "street": "5203 Buckeystown Pike",
       "country": "USA",
-      "last_checked": "Checked 37 minutes ago"
+      "last_checked": "Checked 6 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-76.982239",
-        "38.878647",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "DC",
-      "city": "Washington",
-      "street": "1539 Pennsylvania Se",
-      "country": "USA",
-      "last_checked": "Checked 58 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-71.452042",
-        "42.945374",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NH",
-      "city": "Manchester",
-      "street": "2287 Brown Ave",
-      "country": "USA",
-      "last_checked": "Checked 42 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.894072",
-        "38.784713",
+        "-77.032147",
+        "38.916853",
         0.0
       ],
       "type": "Point"
@@ -957,40 +705,19 @@
       "is_broken": true,
       "is_active": true,
       "dot": "broken",
-      "state": "MD",
-      "city": "Clinton",
-      "street": "6515 Old Alexandria Ferry Road",
+      "state": "DC",
+      "city": "Washington",
+      "street": "14th & U St Nw",
       "country": "USA",
-      "last_checked": "Checked 35 minutes ago"
+      "last_checked": "Checked 49 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-76.964173",
-        "38.813793",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Oxon Hill",
-      "street": "5500 Saint Barnabas Rd",
-      "country": "USA",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.053277",
-        "38.850054",
+        "-77.0607",
+        "38.863194",
         0.0
       ],
       "type": "Point"
@@ -1001,28 +728,7 @@
       "dot": "working",
       "state": "VA",
       "city": "Arlington",
-      "street": "2620 Jefferson Davis Hwy",
-      "country": "USA",
-      "last_checked": "Checked 53 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.731235",
-        "39.688345",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Hagerstown",
-      "street": "18411 Maugans Ave",
+      "street": "1100 S Hayes St",
       "country": "USA",
       "last_checked": "Checked 21 minutes ago"
     },
@@ -1031,71 +737,8 @@
   {
     "geometry": {
       "coordinates": [
-        "-71.832936",
-        "43.289403",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NH",
-      "city": "Warner",
-      "street": "4 Nichols Mill Lane",
-      "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.901758",
-        "38.621904",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Waldorf",
-      "street": "3300 Leonardtown Rd",
-      "country": "USA",
-      "last_checked": "Checked 37 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.922785",
-        "38.615681",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MD",
-      "city": "Waldorf",
-      "street": "11025 Mall Circle",
-      "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.272236",
-        "38.843603",
+        "-77.183761",
+        "38.936742",
         0.0
       ],
       "type": "Point"
@@ -1105,10 +748,136 @@
       "is_active": true,
       "dot": "working",
       "state": "VA",
-      "city": "Fairfax",
-      "street": "3951 Pickett Rd",
+      "city": "Mclean",
+      "street": "6920 Old Dominion Dr",
       "country": "USA",
-      "last_checked": "Checked 32 minutes ago"
+      "last_checked": "Checked 21 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-77.091126",
+        "38.829041",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "VA",
+      "city": "Alexandria",
+      "street": "3646 Kings St",
+      "country": "USA",
+      "last_checked": "Checked 21 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-77.221634",
+        "38.9179",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "VA",
+      "city": "Mclean",
+      "street": "7937 L Tyson Center Mall",
+      "country": "USA",
+      "last_checked": "Checked 10 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-77.123454",
+        "38.813176",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "VA",
+      "city": "Alexandria",
+      "street": "5311 Duke St",
+      "country": "USA",
+      "last_checked": "Checked 21 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-77.087481",
+        "38.743724",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "VA",
+      "city": "Alexandria",
+      "street": "7910 Richmond Hwy",
+      "country": "USA",
+      "last_checked": "Checked 37 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-77.185963",
+        "38.782482",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "VA",
+      "city": "Springfield",
+      "street": "6220 Backlick Rd",
+      "country": "USA",
+      "last_checked": "Checked 21 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-77.405103",
+        "38.999672",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "VA",
+      "city": "Sterling",
+      "street": "275 S Sterling Blvd",
+      "country": "USA",
+      "last_checked": "Checked 21 minutes ago"
     },
     "type": "Feature"
   },
@@ -1129,15 +898,15 @@
       "city": "Lorton",
       "street": "9398 Richmond Hwy",
       "country": "USA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 51 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-77.517636",
-        "38.798926",
+        "-77.432793",
+        "38.834438",
         0.0
       ],
       "type": "Point"
@@ -1147,18 +916,18 @@
       "is_active": true,
       "dot": "working",
       "state": "VA",
-      "city": "Manassas",
-      "street": "10730 Balls Ford Rd",
+      "city": "Centreville",
+      "street": "5931 Fort Dr",
       "country": "USA",
-      "last_checked": "Checked 41 minutes ago"
+      "last_checked": "Checked 45 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-77.316754",
-        "38.576155",
+        "-77.369602",
+        "38.658973",
         0.0
       ],
       "type": "Point"
@@ -1168,18 +937,39 @@
       "is_active": true,
       "dot": "working",
       "state": "VA",
-      "city": "Dumfries",
-      "street": "17340 Dumfries Road",
+      "city": "Dale City",
+      "street": "13698 Mapledale Ave",
       "country": "USA",
-      "last_checked": "Checked 44 minutes ago"
+      "last_checked": "Checked 24 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-77.405769",
-        "38.461462",
+        "-77.641919",
+        "38.81454",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "VA",
+      "city": "Haymarket",
+      "street": "6740 Leaberry Way",
+      "country": "USA",
+      "last_checked": "Checked 3 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-77.46021",
+        "38.468429",
         0.0
       ],
       "type": "Point"
@@ -1190,17 +980,17 @@
       "dot": "working",
       "state": "VA",
       "city": "Stafford",
-      "street": "2862 Jefferson Davis Hwy",
+      "street": "893 Garrisonville Rd",
       "country": "USA",
-      "last_checked": "Checked 38 minutes ago"
+      "last_checked": "Checked 35 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-78.278719",
-        "42.22267",
+        "-76.786333",
+        "37.964543",
         0.0
       ],
       "type": "Point"
@@ -1209,40 +999,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "NY",
-      "city": "Cuba",
-      "street": "97 Genesee St",
+      "state": "VA",
+      "city": "Warsaw",
+      "street": "4188 Richmond Rd",
       "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
+      "last_checked": "Checked 47 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-75.842283",
-        "44.035236",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NY",
-      "city": "Calcium",
-      "street": "7952 Route 11",
-      "country": "USA",
-      "last_checked": "Checked 29 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.600535",
-        "43.195494",
+        "-77.611139",
+        "43.169806",
         0.0
       ],
       "type": "Point"
@@ -1253,17 +1022,17 @@
       "dot": "working",
       "state": "NY",
       "city": "Rochester",
-      "street": "657 East Ridge Rd",
+      "street": "275 Upper Falls Blvd",
       "country": "USA",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 15 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-78.195346",
-        "38.959193",
+        "-77.357478",
+        "38.048402",
         0.0
       ],
       "type": "Point"
@@ -1273,18 +1042,18 @@
       "is_active": true,
       "dot": "working",
       "state": "VA",
-      "city": "Front Royal",
-      "street": "9846 Winche Ster Road",
+      "city": "Bowling Green",
+      "street": "301 W Broaddus Ave",
       "country": "USA",
-      "last_checked": "Checked 18 minutes ago"
+      "last_checked": "Checked 47 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-77.805811",
-        "43.182648",
+        "-77.729927",
+        "43.213622",
         0.0
       ],
       "type": "Point"
@@ -1294,18 +1063,18 @@
       "is_active": true,
       "dot": "working",
       "state": "NY",
-      "city": "Spencerport",
-      "street": "44 Nichols St",
+      "city": "Rochester",
+      "street": "3781 Westridge Rd",
       "country": "USA",
-      "last_checked": "Checked 47 minutes ago"
+      "last_checked": "Checked 17 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-73.248101",
-        "44.535276",
+        "-73.516334",
+        "44.576322",
         0.0
       ],
       "type": "Point"
@@ -1314,19 +1083,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "VT",
-      "city": "Colchester",
-      "street": "79 Heineberg Rd",
+      "state": "NY",
+      "city": "Peru",
+      "street": "741 Bear Swamp Rd",
       "country": "USA",
-      "last_checked": "Checked 47 minutes ago"
+      "last_checked": "Checked 20 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-78.252563",
-        "38.38002",
+        "-79.040132",
+        "39.480642",
         0.0
       ],
       "type": "Point"
@@ -1335,40 +1104,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "VA",
-      "city": "Madison",
-      "street": "327 Washington  St.",
+      "state": "MD",
+      "city": "Westernport",
+      "street": "182 Church St",
       "country": "USA",
-      "last_checked": "Checked 48 minutes ago"
+      "last_checked": "Checked 42 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-79.389437",
-        "40.284666",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "PA",
-      "city": "Latrobe",
-      "street": "110 Mount Laurel Plz",
-      "country": "USA",
-      "last_checked": "Checked 18 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.342233",
-        "37.346732",
+        "-77.409072",
+        "37.558354",
         0.0
       ],
       "type": "Point"
@@ -1378,10 +1126,136 @@
       "is_active": true,
       "dot": "working",
       "state": "VA",
-      "city": "Chester",
-      "street": "13131 Kingston Ave",
+      "city": "Richmond",
+      "street": "2306 And 2310 Mechanicsvil Tpke",
       "country": "USA",
-      "last_checked": "Checked 18 minutes ago"
+      "last_checked": "Checked 13 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-76.425176",
+        "37.02843",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "VA",
+      "city": "Hampton",
+      "street": "4045 W Mercury Blvd",
+      "country": "USA",
+      "last_checked": "Checked 14 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-75.995032",
+        "36.844665",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "VA",
+      "city": "Virginia Beach",
+      "street": "404 Birdneck Rd",
+      "country": "USA",
+      "last_checked": "Checked 30 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-70.32935",
+        "43.886134",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "ME",
+      "city": "Gray",
+      "street": "8 Main St",
+      "country": "USA",
+      "last_checked": "Checked 20 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-78.817025",
+        "42.958825",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "NY",
+      "city": "Amherst",
+      "street": "3540 Main St",
+      "country": "USA",
+      "last_checked": "Checked 11 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-77.425629",
+        "37.401632",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "VA",
+      "city": "Richmond",
+      "street": "2300 Willis Rd",
+      "country": "USA",
+      "last_checked": "Checked 40 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-78.215496",
+        "37.973692",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "VA",
+      "city": "Gordonsville",
+      "street": "11445 James Madison Hwy",
+      "country": "USA",
+      "last_checked": "Checked 47 minutes ago"
     },
     "type": "Feature"
   },
@@ -1402,15 +1276,57 @@
       "city": "Petersburg",
       "street": "440 Virginia Ave",
       "country": "USA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 53 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-76.327799",
-        "36.795574",
+        "-79.945348",
+        "40.331689",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "PA",
+      "city": "Pleasant Hills",
+      "street": "549 Clariton Blvd",
+      "country": "USA",
+      "last_checked": "Checked 14 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-81.320638",
+        "40.789657",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OH",
+      "city": "Canton Township",
+      "street": "4025 Lincoln St",
+      "country": "USA",
+      "last_checked": "Checked 15 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-79.394592",
+        "36.789899",
         0.0
       ],
       "type": "Point"
@@ -1420,155 +1336,8 @@
       "is_active": true,
       "dot": "working",
       "state": "VA",
-      "city": "Portsmouth",
-      "street": "2000 Victory Blvd",
-      "country": "USA",
-      "last_checked": "Checked 37 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.050782",
-        "40.338068",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "PA",
-      "city": "Pittsburgh",
-      "street": "82 Fort Couch Rd",
-      "country": "USA",
-      "last_checked": "Checked 54 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.651647",
-        "41.109114",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "OH",
-      "city": "Youngstown",
-      "street": "570 5th Ave",
-      "country": "USA",
-      "last_checked": "Checked 42 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.766122",
-        "41.23626",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Warren",
-      "street": "162 North Rd",
-      "country": "USA",
-      "last_checked": "Checked 36 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.810125",
-        "41.23474",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Warren",
-      "street": "595 South St",
-      "country": "USA",
-      "last_checked": "Checked 36 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.420955",
-        "39.019079",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "WV",
-      "city": "Weston",
-      "street": "11 Market Pl",
-      "country": "USA",
-      "last_checked": "Checked 44 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.278571",
-        "41.699275",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Painesville",
-      "street": "1582 Mentor Ave",
-      "country": "USA",
-      "last_checked": "Checked 38 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.35231",
-        "41.316841",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Aurora",
-      "street": "199 W Garfield",
+      "city": "Chatham",
+      "street": "Ushy 29 & 703",
       "country": "USA",
       "last_checked": "Checked 46 minutes ago"
     },
@@ -1577,8 +1346,29 @@
   {
     "geometry": {
       "coordinates": [
-        "-81.388836",
-        "40.833107",
+        "-81.637704",
+        "39.548103",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OH",
+      "city": "Beverly",
+      "street": "223 5th St",
+      "country": "USA",
+      "last_checked": "Checked 45 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-78.58066",
+        "35.844135",
         0.0
       ],
       "type": "Point"
@@ -1587,19 +1377,19 @@
       "is_broken": true,
       "is_active": true,
       "dot": "broken",
-      "state": "OH",
-      "city": "Canton",
-      "street": "3101 Cleveland Ave",
+      "state": "NC",
+      "city": "Raleigh",
+      "street": "4413 Capital Blvd",
       "country": "USA",
-      "last_checked": "Checked 14 minutes ago"
+      "last_checked": "Checked 46 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-77.974403",
-        "35.978942",
+        "-78.129084",
+        "35.5935",
         0.0
       ],
       "type": "Point"
@@ -1609,123 +1399,18 @@
       "is_active": true,
       "dot": "working",
       "state": "NC",
-      "city": "Nashville",
-      "street": "501 W Washington",
+      "city": "Kenly",
+      "street": "400 S Church St",
       "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
+      "last_checked": "Checked 49 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-81.517588",
-        "40.748154",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "OH",
-      "city": "Massillon",
-      "street": "4121 Erie St S",
-      "country": "USA",
-      "last_checked": "Checked 13 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.553752",
-        "41.010811",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Akron",
-      "street": "3273 Manchester Road",
-      "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.575886",
-        "41.552813",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Cleveland",
-      "street": "15110 Saint Clair",
-      "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.387858",
-        "35.574844",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NC",
-      "city": "Greenville",
-      "street": "3000 Landmark St",
-      "country": "USA",
-      "last_checked": "Checked 28 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.952665",
-        "35.737805",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NC",
-      "city": "Wilson",
-      "street": "2802 Raleigh Rd Nw",
-      "country": "USA",
-      "last_checked": "Checked 14 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-78.5801",
-        "35.870226",
+        "-78.591118",
+        "35.820499",
         0.0
       ],
       "type": "Point"
@@ -1736,135 +1421,9 @@
       "dot": "working",
       "state": "NC",
       "city": "Raleigh",
-      "street": "6250 Capital Blvd",
+      "street": "3026 Capital Blvd",
       "country": "USA",
-      "last_checked": "Checked 52 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-79.911934",
-        "36.717736",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "VA",
-      "city": "Collinsville",
-      "street": "2757 S Virginia Ave",
-      "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.059124",
-        "41.465961",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Avon",
-      "street": "39100 Colorado Ave",
-      "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-78.470474",
-        "35.65036",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NC",
-      "city": "Clayton",
-      "street": "11351 Us 70 Business Highway West",
-      "country": "USA",
-      "last_checked": "Checked 36 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-77.948386",
-        "35.372845",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NC",
-      "city": "Goldsboro",
-      "street": "300 N Berkeley Blvd",
-      "country": "USA",
-      "last_checked": "Checked 42 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.048725",
-        "39.949988",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Zanesville",
-      "street": "2605 W Pike",
-      "country": "USA",
-      "last_checked": "Checked 44 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-78.313995",
-        "35.519559",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NC",
-      "city": "Smithfield",
-      "street": "1209 Brightleaf Blvd",
-      "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
+      "last_checked": "Checked 49 minutes ago"
     },
     "type": "Feature"
   },
@@ -1885,70 +1444,28 @@
       "city": "Ripley",
       "street": "3875 Charleston Road",
       "country": "USA",
+      "last_checked": "Checked 53 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-81.736713",
+        "38.358592",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "WV",
+      "city": "Dunbar",
+      "street": "1000 Dunbar Village Plaza",
+      "country": "USA",
       "last_checked": "Checked 4 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-76.808229",
-        "34.738038",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NC",
-      "city": "Morehead City",
-      "street": "5179 Us Hwy 70 West",
-      "country": "USA",
-      "last_checked": "Checked 28 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.450197",
-        "40.401967",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Mount Vernon",
-      "street": "1059 Coshocton Ave",
-      "country": "USA",
-      "last_checked": "Checked 48 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.551164",
-        "40.773361",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Mansfield",
-      "street": "540 N Trimble Rd",
-      "country": "USA",
-      "last_checked": "Checked 59 minutes ago"
     },
     "type": "Feature"
   },
@@ -1969,36 +1486,15 @@
       "city": "Sanford",
       "street": "2502 S Horner Blvd",
       "country": "USA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 55 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-79.199032",
-        "35.487139",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NC",
-      "city": "Sanford",
-      "street": "1001 Spring Ln",
-      "country": "USA",
-      "last_checked": "Checked 59 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.676283",
-        "40.002411",
+        "-82.818155",
+        "39.982741",
         0.0
       ],
       "type": "Point"
@@ -2008,18 +1504,18 @@
       "is_active": true,
       "dot": "working",
       "state": "OH",
-      "city": "Pataskala",
-      "street": "67 W Broad St",
+      "city": "Columbus",
+      "street": "6914 E Broad St",
       "country": "USA",
-      "last_checked": "Checked 42 minutes ago"
+      "last_checked": "Checked 40 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-80.277607",
-        "36.188911",
+        "-80.297617",
+        "36.070494",
         0.0
       ],
       "type": "Point"
@@ -2030,72 +1526,9 @@
       "dot": "working",
       "state": "NC",
       "city": "Winston Salem",
-      "street": "5998 University Pky",
+      "street": "110 Hanes Mall Cir",
       "country": "USA",
-      "last_checked": "Checked 41 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-79.822926",
-        "35.822995",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NC",
-      "city": "Randleman",
-      "street": "1000 High Point St",
-      "country": "USA",
-      "last_checked": "Checked 48 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.456772",
-        "43.02932",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MI",
-      "city": "Fort Gratiot",
-      "street": "4155 24th Ave",
-      "country": "USA",
-      "last_checked": "Checked 47 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.538322",
-        "42.985065",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MI",
-      "city": "Smiths Creek",
-      "street": "2805 Wadhams",
-      "country": "USA",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 34 minutes ago"
     },
     "type": "Feature"
   },
@@ -2116,36 +1549,15 @@
       "city": "Gahanna",
       "street": "359 Agler Rd",
       "country": "USA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 53 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-82.906292",
-        "39.973209",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "OH",
-      "city": "Columbus",
-      "street": "3550 E Broad St",
-      "country": "USA",
-      "last_checked": "Checked 40 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-78.916183",
-        "35.095816",
+        "-81.867005",
+        "37.61237",
         0.0
       ],
       "type": "Point"
@@ -2154,32 +1566,11 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "NC",
-      "city": "Fayetteville",
-      "street": "1942 Pamalee Dr",
+      "state": "WV",
+      "city": "Gilbert",
+      "street": "Rt 52",
       "country": "USA",
-      "last_checked": "Checked 51 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.387681",
-        "38.438617",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Proctorville",
-      "street": "6232 St Rt 7",
-      "country": "USA",
-      "last_checked": "Checked 48 minutes ago"
+      "last_checked": "Checked 45 minutes ago"
     },
     "type": "Feature"
   },
@@ -2200,7 +1591,28 @@
       "city": "Obetz",
       "street": "5090 Groveport Rd",
       "country": "USA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 52 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-82.939995",
+        "42.449764",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MI",
+      "city": "Harper Woods",
+      "street": "17800 East 8 Mile Road",
+      "country": "USA",
+      "last_checked": "Checked 42 minutes ago"
     },
     "type": "Feature"
   },
@@ -2221,99 +1633,15 @@
       "city": "Fayetteville",
       "street": "6779 Raeford Rd",
       "country": "USA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 54 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-83.203557",
-        "41.111413",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Tiffin",
-      "street": "1714 W State Route 18",
-      "country": "USA",
-      "last_checked": "Checked 45 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.046471",
-        "42.351326",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MI",
-      "city": "Detroit",
-      "street": "1000 Mack Ave",
-      "country": "USA",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.820957",
-        "36.239631",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "NC",
-      "city": "Jonesville",
-      "street": "I 77 & Nc 67",
-      "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.098026",
-        "39.954292",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Columbus",
-      "street": "3636 W Broad St",
-      "country": "USA",
-      "last_checked": "Checked 32 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.007201",
-        "42.62771",
+        "-82.941587",
+        "42.628954",
         0.0
       ],
       "type": "Point"
@@ -2323,18 +1651,39 @@
       "is_active": true,
       "dot": "broken",
       "state": "MI",
-      "city": "Utiica, Mi",
-      "street": "45010 Utica Park Blvd",
+      "city": "Macomb",
+      "street": "18001 Hall Rd",
       "country": "USA",
-      "last_checked": "Checked 15 minutes ago"
+      "last_checked": "Checked 18 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-83.15174",
-        "39.981705",
+        "-83.081927",
+        "39.89507",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "OH",
+      "city": "Grove City",
+      "street": "3370 Broadway",
+      "country": "USA",
+      "last_checked": "Checked 17 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-83.098989",
+        "39.972329",
         0.0
       ],
       "type": "Point"
@@ -2345,9 +1694,30 @@
       "dot": "working",
       "state": "OH",
       "city": "Columbus",
-      "street": "5410 Renner Rd",
+      "street": "901 Wilson Rd",
       "country": "USA",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 14 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-83.0755",
+        "39.839588",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OH",
+      "city": "Grove City",
+      "street": "2596 W London-Groveport Rd",
+      "country": "USA",
+      "last_checked": "Checked 13 minutes ago"
     },
     "type": "Feature"
   },
@@ -2368,15 +1738,15 @@
       "city": "Hazel Park",
       "street": "50 W 9 Mile",
       "country": "USA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 54 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-83.172371",
-        "42.330181",
+        "-83.036176",
+        "42.713155",
         0.0
       ],
       "type": "Point"
@@ -2386,18 +1756,18 @@
       "is_active": true,
       "dot": "working",
       "state": "MI",
-      "city": "Dearborn",
-      "street": "13158 Ford Rd",
+      "city": "Shelby Twp",
+      "street": "56915 Van Dyke",
       "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
+      "last_checked": "Checked 33 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-83.179489",
-        "42.385387",
+        "-83.181763",
+        "42.222561",
         0.0
       ],
       "type": "Point"
@@ -2407,18 +1777,18 @@
       "is_active": true,
       "dot": "working",
       "state": "MI",
-      "city": "Detroit",
-      "street": "13676 Grand River Avenue",
+      "city": "Lincoln Park",
+      "street": "4180 Fort St",
       "country": "USA",
-      "last_checked": "Checked 31 minutes ago"
+      "last_checked": "Checked 12 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-83.326973",
-        "42.237766",
+        "-83.088684",
+        "42.592594",
         0.0
       ],
       "type": "Point"
@@ -2428,18 +1798,81 @@
       "is_active": true,
       "dot": "working",
       "state": "MI",
-      "city": "Romulus",
-      "street": "9273 Middlebelt Rd",
+      "city": "Sterling Heights",
+      "street": "2000 18 Mile Rd",
       "country": "USA",
-      "last_checked": "Checked 34 minutes ago"
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-83.246414",
-        "42.663528",
+        "-83.134041",
+        "42.458549",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MI",
+      "city": "Ferndale",
+      "street": "22525 Woodward Ave",
+      "country": "USA",
+      "last_checked": "Checked 12 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-83.120766",
+        "42.533108",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MI",
+      "city": "Madison Heights",
+      "street": "32811 Stephenson Hwy",
+      "country": "USA",
+      "last_checked": "Checked 27 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-78.984467",
+        "34.809256",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "NC",
+      "city": "St Pauls",
+      "street": "921 W Broad St",
+      "country": "USA",
+      "last_checked": "Checked 27 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-83.305588",
+        "42.701603",
         0.0
       ],
       "type": "Point"
@@ -2450,156 +1883,9 @@
       "dot": "working",
       "state": "MI",
       "city": "Auburn Hills",
-      "street": "1481 Opdyke Rd",
+      "street": "3950 Baldwin Rd",
       "country": "USA",
-      "last_checked": "Checked 38 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.350334",
-        "42.353867",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "MI",
-      "city": "Westland",
-      "street": "31355 Joy Rd",
-      "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.485817",
-        "41.615731",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Northwood",
-      "street": "2700 Woodville Rd",
-      "country": "USA",
-      "last_checked": "Checked 27 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.415993",
-        "42.361485",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MI",
-      "city": "Livonia",
-      "street": "38015 Ann Arbor Rd",
-      "country": "USA",
-      "last_checked": "Checked 29 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.434525",
-        "42.410137",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MI",
-      "city": "Northville Township",
-      "street": "39555 Six Mile",
-      "country": "USA",
-      "last_checked": "Checked 19 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.562519",
-        "41.721282",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "OH",
-      "city": "Toledo",
-      "street": "831 W Alexis Rd",
-      "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.57058",
-        "41.665254",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Toledo",
-      "street": "3008 Monroe St",
-      "country": "USA",
-      "last_checked": "Checked 12 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.435364",
-        "42.440289",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MI",
-      "city": "Novi",
-      "street": "21050 Haggerty Road",
-      "country": "USA",
-      "last_checked": "Checked 60 minutes ago"
+      "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
   },
@@ -2620,7 +1906,7 @@
       "city": "Walled Lake",
       "street": "515 Haggerty Rd",
       "country": "USA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 53 minutes ago"
     },
     "type": "Feature"
   },
@@ -2641,47 +1927,47 @@
       "city": "Perrysburg",
       "street": "26540 Dixie Hwy",
       "country": "USA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 55 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-83.665326",
-        "41.601028",
+        "-83.509514",
+        "42.391506",
         0.0
       ],
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
-      "state": "OH",
-      "city": "Toledo",
-      "street": "2130 S Reynolds Rd",
-      "country": "USA",
-      "last_checked": "Checked 47 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.618729",
-        "42.224957",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": "MI",
-      "city": "Ypsilanti",
-      "street": "166 James L Hart Pkwy",
+      "city": "Plymouth",
+      "street": "15110 Beck Rd",
+      "country": "USA",
+      "last_checked": "Checked 9 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-83.616997",
+        "42.642597",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MI",
+      "city": "Highland",
+      "street": "450 N Milford Rd",
       "country": "USA",
       "last_checked": "Checked 29 minutes ago"
     },
@@ -2690,8 +1976,8 @@
   {
     "geometry": {
       "coordinates": [
-        "-83.562452",
-        "38.782937",
+        "-83.82283",
+        "40.769686",
         0.0
       ],
       "type": "Point"
@@ -2701,10 +1987,94 @@
       "is_active": true,
       "dot": "working",
       "state": "OH",
-      "city": "West Union",
-      "street": "11325 State Hwy 41",
+      "city": "Ada",
+      "street": "132 South Main Street",
       "country": "USA",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-83.784814",
+        "39.965557",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "OH",
+      "city": "Springfield",
+      "street": "2994 Derr Rd",
+      "country": "USA",
+      "last_checked": "Checked 9 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-83.524836",
+        "43.167791",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MI",
+      "city": "Otisville",
+      "street": "213 N State St",
+      "country": "USA",
+      "last_checked": "Checked 33 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-80.876478",
+        "35.483789",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "NC",
+      "city": "Cornelius",
+      "street": "20500 Torrence Chapel Rd",
+      "country": "USA",
+      "last_checked": "Checked 48 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-83.711144",
+        "42.97428",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MI",
+      "city": "Flint",
+      "street": "1500 W Bristol Rd",
+      "country": "USA",
+      "last_checked": "Checked 49 minutes ago"
     },
     "type": "Feature"
   },
@@ -2725,15 +2095,15 @@
       "city": "Vassar",
       "street": "933 W Huron",
       "country": "USA",
-      "last_checked": "Checked 11 minutes ago"
+      "last_checked": "Checked 60 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-83.810751",
-        "42.965346",
+        "-83.956895",
+        "39.866571",
         0.0
       ],
       "type": "Point"
@@ -2742,11 +2112,32 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "MI",
-      "city": "Swartz Creek",
-      "street": "4237 Elms Rd",
+      "state": "OH",
+      "city": "Enon",
+      "street": "7521 Dayton Springfield Rd",
       "country": "USA",
-      "last_checked": "Checked 19 minutes ago"
+      "last_checked": "Checked 11 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-83.99173",
+        "42.619492",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "MI",
+      "city": "Howell",
+      "street": "1360 Burkhart Rd",
+      "country": "USA",
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
@@ -2767,7 +2158,7 @@
       "city": "Charlotte",
       "street": "6428 Fairview Rd",
       "country": "USA",
-      "last_checked": "Checked 7 minutes ago"
+      "last_checked": "Checked 56 minutes ago"
     },
     "type": "Feature"
   },
@@ -2788,15 +2179,15 @@
       "city": "Charlotte",
       "street": "413 Tyvola Rd",
       "country": "USA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 58 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-84.109645",
-        "39.648909",
+        "-83.950891",
+        "43.428453",
         0.0
       ],
       "type": "Point"
@@ -2805,95 +2196,11 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "OH",
-      "city": "Dayton",
-      "street": "6222 Wilmington Pike",
+      "state": "MI",
+      "city": "Saginaw",
+      "street": "1454 N Michigan Ave",
       "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-79.366834",
-        "34.183609",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "SC",
-      "city": "Marion",
-      "street": "2513 E Highway",
-      "country": "USA",
-      "last_checked": "Checked 18 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.305851",
-        "41.511447",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Archbold",
-      "street": "1100 S Defiance Street",
-      "country": "USA",
-      "last_checked": "Checked 45 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.360107",
-        "41.30104",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Defiance",
-      "street": "1111 N Clinton St",
-      "country": "USA",
-      "last_checked": "Checked 47 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.225917",
-        "39.811602",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Dayton",
-      "street": "4770 N Main St",
-      "country": "USA",
-      "last_checked": "Checked 30 minutes ago"
+      "last_checked": "Checked 36 minutes ago"
     },
     "type": "Feature"
   },
@@ -2914,36 +2221,15 @@
       "city": "Bay City",
       "street": "314 Washington Ave",
       "country": "USA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 54 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-82.364317",
-        "36.307756",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "TN",
-      "city": "Johnson City",
-      "street": "826 W Walnut St",
-      "country": "USA",
-      "last_checked": "Checked 57 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.900767",
-        "43.62332",
+        "-84.289304",
+        "39.821658",
         0.0
       ],
       "type": "Point"
@@ -2952,11 +2238,11 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "MI",
-      "city": "Bay City",
-      "street": "3840 E Wilder Rd",
+      "state": "OH",
+      "city": "Trotwood",
+      "street": "5360 Salem Ave",
       "country": "USA",
-      "last_checked": "Checked 31 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
@@ -2977,15 +2263,36 @@
       "city": "Miamisburg",
       "street": "15 N Heincke Rd",
       "country": "USA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 56 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-84.285534",
-        "42.689263",
+        "-81.332612",
+        "35.228003",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "NC",
+      "city": "Kings Mountain",
+      "street": "I-85 And Hwy 161",
+      "country": "USA",
+      "last_checked": "Checked 14 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-84.439897",
+        "42.452031",
         0.0
       ],
       "type": "Point"
@@ -2995,92 +2302,8 @@
       "is_active": true,
       "dot": "working",
       "state": "MI",
-      "city": "Williamston",
-      "street": "200 W Grand River Ave",
-      "country": "USA",
-      "last_checked": "Checked 19 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.091181",
-        "38.964373",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Bethel",
-      "street": "625 W Plane St",
-      "country": "USA",
-      "last_checked": "Checked 41 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-79.764314",
-        "34.164767",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "SC",
-      "city": "Florence",
-      "street": "1540 S Irby St",
-      "country": "USA",
-      "last_checked": "Checked 22 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.27703",
-        "39.173582",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OH",
-      "city": "Milford",
-      "street": "990 Lila Ave",
-      "country": "USA",
-      "last_checked": "Checked 26 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.506085",
-        "42.740466",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "MI",
-      "city": "Lansing",
-      "street": "3220 E Saginaw Rd",
+      "city": "Leslie",
+      "street": "4500 N Hull",
       "country": "USA",
       "last_checked": "Checked 18 minutes ago"
     },
@@ -3089,8 +2312,8 @@
   {
     "geometry": {
       "coordinates": [
-        "-84.362796",
-        "39.142506",
+        "-84.540088",
+        "39.347307",
         0.0
       ],
       "type": "Point"
@@ -3100,18 +2323,18 @@
       "is_active": true,
       "dot": "working",
       "state": "OH",
-      "city": "Cincinnati",
-      "street": "7337 Wooster Pike",
+      "city": "Fairfield",
+      "street": "4760 State Route 4",
       "country": "USA",
-      "last_checked": "Checked 13 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-84.62124",
-        "40.121869",
+        "-84.896645",
+        "41.942228",
         0.0
       ],
       "type": "Point"
@@ -3120,19 +2343,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "OH",
-      "city": "Greenville",
-      "street": "1301 Wagner Ave",
+      "state": "MI",
+      "city": "Quincy",
+      "street": "122 W Chicago",
       "country": "USA",
-      "last_checked": "Checked 33 minutes ago"
+      "last_checked": "Checked 26 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-84.500035",
-        "39.134818",
+        "-85.043885",
+        "41.634471",
         0.0
       ],
       "type": "Point"
@@ -3141,19 +2364,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "OH",
-      "city": "Cincinnati",
-      "street": "413 Martin Luther King Dr",
+      "state": "IN",
+      "city": "Angola",
+      "street": "3021 W Maumee",
       "country": "USA",
-      "last_checked": "Checked 51 minutes ago"
+      "last_checked": "Checked 11 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-84.512991",
-        "39.16487",
+        "-84.679505",
+        "43.523675",
         0.0
       ],
       "type": "Point"
@@ -3162,19 +2385,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "OH",
-      "city": "Cincinnati",
-      "street": "255 W Mitchell Ave",
+      "state": "MI",
+      "city": "Shepherd",
+      "street": "550 E Wright Ave",
       "country": "USA",
-      "last_checked": "Checked 17 minutes ago"
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-84.605964",
-        "39.127015",
+        "-85.125391",
+        "42.309894",
         0.0
       ],
       "type": "Point"
@@ -3183,61 +2406,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "OH",
-      "city": "Cincinnati",
-      "street": "5341 N Glenway Ave",
+      "state": "MI",
+      "city": "Battle Creek",
+      "street": "1160 E Michigan Ave",
       "country": "USA",
-      "last_checked": "Checked 39 minutes ago"
+      "last_checked": "Checked 45 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-80.67901",
-        "34.226513",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "SC",
-      "city": "Lugoff",
-      "street": "906 Hwy 1 S",
-      "country": "USA",
-      "last_checked": "Checked 38 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.536083",
-        "38.227479",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "KY",
-      "city": "Georgetown",
-      "street": "400 Connector Road",
-      "country": "USA",
-      "last_checked": "Checked 39 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.981093",
-        "34.214585",
+        "-80.355997",
+        "33.868938",
         0.0
       ],
       "type": "Point"
@@ -3247,60 +2428,18 @@
       "is_active": true,
       "dot": "working",
       "state": "SC",
-      "city": "Blythewood",
-      "street": "250 Blythewood Rd",
+      "city": "Sumter",
+      "street": "1765 Hwy 15 S",
       "country": "USA",
-      "last_checked": "Checked 31 minutes ago"
+      "last_checked": "Checked 18 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-81.976805",
-        "34.923908",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "SC",
-      "city": "Spartanburg",
-      "street": "1598 John B White Sr Blvd",
-      "country": "USA",
-      "last_checked": "Checked 41 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.914521",
-        "34.140333",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "SC",
-      "city": "Columbia",
-      "street": "4301 Hardscrabble Rd",
-      "country": "USA",
-      "last_checked": "Checked 48 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.572955",
-        "38.005473",
+        "-84.526651",
+        "38.066943",
         0.0
       ],
       "type": "Point"
@@ -3311,9 +2450,93 @@
       "dot": "working",
       "state": "KY",
       "city": "Lexington",
-      "street": "3765 Palomar Centre Drive",
+      "street": "1620 Leestown Rd",
       "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-84.5301",
+        "37.97749",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "KY",
+      "city": "Lexington",
+      "street": "100 Marketplace Dr",
+      "country": "USA",
+      "last_checked": "Checked 8 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-84.11406",
+        "37.148478",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "KY",
+      "city": "London",
+      "street": "170 W Daniel Boone Pky",
+      "country": "USA",
+      "last_checked": "Checked 44 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-84.598161",
+        "37.872153",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "KY",
+      "city": "Nicholasville",
+      "street": "100 S Hendren Way",
+      "country": "USA",
+      "last_checked": "Checked 9 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-85.265556",
+        "43.432071",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MI",
+      "city": "Lakeview",
+      "street": "9150 Howard City Edmore Rd",
+      "country": "USA",
+      "last_checked": "Checked 37 minutes ago"
     },
     "type": "Feature"
   },
@@ -3334,7 +2557,28 @@
       "city": "Kalamazoo",
       "street": "224 Kalamazoo Ave",
       "country": "USA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 59 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-85.704979",
+        "41.655621",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "IN",
+      "city": "Middlebury",
+      "street": "57900 State Hwy 13",
+      "country": "USA",
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
@@ -3355,15 +2599,15 @@
       "city": "Grand Rapids",
       "street": "1246 Leonard St Ne",
       "country": "USA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 53 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-85.810587",
-        "40.277662",
+        "-85.728372",
+        "42.811796",
         0.0
       ],
       "type": "Point"
@@ -3372,53 +2616,11 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "IN",
-      "city": "Elwood",
-      "street": "7340 W State Road 28",
-      "country": "USA",
-      "last_checked": "Checked 59 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-85.69027",
-        "43.034838",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
       "state": "MI",
-      "city": "Comstock Park",
-      "street": "3917 Alpine Ave Nw",
+      "city": "Byron Center",
+      "street": "2626 84th St Sw",
       "country": "USA",
-      "last_checked": "Checked 11 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.855772",
-        "33.491434",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "SC",
-      "city": "Orangeburg",
-      "street": "706 John C Calhoun Dr",
-      "country": "USA",
-      "last_checked": "Checked 28 minutes ago"
+      "last_checked": "Checked 13 minutes ago"
     },
     "type": "Feature"
   },
@@ -3439,15 +2641,15 @@
       "city": "Shelbyville",
       "street": "10 W Rampart Rd",
       "country": "USA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 51 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-84.92509",
-        "37.323941",
+        "-85.511031",
+        "38.290231",
         0.0
       ],
       "type": "Point"
@@ -3457,18 +2659,39 @@
       "is_active": true,
       "dot": "working",
       "state": "KY",
-      "city": "Liberty",
-      "street": "735 Nw Wilkinson Blvd",
+      "city": "Louisville",
+      "street": "12414 La Grange Rd",
       "country": "USA",
-      "last_checked": "Checked 46 minutes ago"
+      "last_checked": "Checked 13 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-86.025688",
-        "39.927669",
+        "-86.167374",
+        "42.194529",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MI",
+      "city": "Hartford",
+      "street": "61678 County Road 687",
+      "country": "USA",
+      "last_checked": "Checked 11 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-86.038819",
+        "39.771941",
         0.0
       ],
       "type": "Point"
@@ -3478,18 +2701,39 @@
       "is_active": true,
       "dot": "working",
       "state": "IN",
-      "city": "Fishers",
-      "street": "9611 North By Ne Blvd",
+      "city": "Indianapolis",
+      "street": "7229 E Washington",
       "country": "USA",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 37 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-86.217352",
-        "41.05189",
+        "-86.094991",
+        "42.827178",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MI",
+      "city": "Holland",
+      "street": "12645 Riley St",
+      "country": "USA",
+      "last_checked": "Checked 36 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-86.082523",
+        "39.80497",
         0.0
       ],
       "type": "Point"
@@ -3499,10 +2743,31 @@
       "is_active": true,
       "dot": "working",
       "state": "IN",
-      "city": "Rochester",
-      "street": "101 Mcdonalds Dr",
+      "city": "Indianapolis",
+      "street": "2551 Emerson Ave",
       "country": "USA",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 20 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-86.154562",
+        "43.132886",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MI",
+      "city": "Fruitport",
+      "street": "6564 Airline Rd",
+      "country": "USA",
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -3523,28 +2788,7 @@
       "city": "Johns Island",
       "street": "3575 Maybank Hwy",
       "country": "USA",
-      "last_checked": "Checked 11 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-86.241017",
-        "39.856491",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IN",
-      "city": "Indianapolis",
-      "street": "4802 W 57th St",
-      "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
+      "last_checked": "Checked 60 minutes ago"
     },
     "type": "Feature"
   },
@@ -3565,15 +2809,15 @@
       "city": "New Albany",
       "street": "802 Hausfeldt Ln",
       "country": "USA",
-      "last_checked": "Checked 10 minutes ago"
+      "last_checked": "Checked 59 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-85.838212",
-        "38.302987",
+        "-86.678705",
+        "40.584845",
         0.0
       ],
       "type": "Point"
@@ -3583,18 +2827,39 @@
       "is_active": true,
       "dot": "working",
       "state": "IN",
-      "city": "New Albany",
-      "street": "2107 State St",
+      "city": "Delphi",
+      "street": "501 W Main St",
       "country": "USA",
-      "last_checked": "Checked 18 minutes ago"
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-81.719053",
-        "33.523587",
+        "-85.734864",
+        "37.55251",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "KY",
+      "city": "Hodgenville",
+      "street": "932 S Lincoln Blvd",
+      "country": "USA",
+      "last_checked": "Checked 15 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-87.179912",
+        "41.549936",
         0.0
       ],
       "type": "Point"
@@ -3603,124 +2868,19 @@
       "is_broken": true,
       "is_active": true,
       "dot": "broken",
-      "state": "SC",
-      "city": "Aiken",
-      "street": "1902 A Whiskey Rd",
-      "country": "USA",
-      "last_checked": "Checked 46 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-85.835601",
-        "38.152515",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "KY",
-      "city": "Louisville",
-      "street": "6701 Dixie Hwy",
-      "country": "USA",
-      "last_checked": "Checked 32 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-85.871425",
-        "38.144269",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "KY",
-      "city": "Louisville",
-      "street": "6400 Greenwood Rd",
-      "country": "USA",
-      "last_checked": "Checked 49 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-85.868934",
-        "38.103304",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "KY",
-      "city": "Louisville",
-      "street": "10411 Dixie Hwy",
-      "country": "USA",
-      "last_checked": "Checked 40 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.022782",
-        "33.101067",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "GA",
-      "city": "Waynesboro",
-      "street": "1400 Liberty St",
-      "country": "USA",
-      "last_checked": "Checked 20 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-87.356319",
-        "41.554141",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
       "state": "IN",
-      "city": "Gary",
-      "street": "3520 Grant Street",
+      "city": "Portage",
+      "street": "6075 Us Hwy 6",
       "country": "USA",
-      "last_checked": "Checked 38 minutes ago"
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-87.356171",
-        "41.601627",
+        "-87.621177",
+        "41.830839",
         0.0
       ],
       "type": "Point"
@@ -3729,32 +2889,11 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "IN",
-      "city": "Gary",
-      "street": "1527 W 5th Ave",
+      "state": "IL",
+      "city": "Chicago",
+      "street": "207 E 35th St",
       "country": "USA",
-      "last_checked": "Checked 14 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-87.146076",
-        "39.038269",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IN",
-      "city": "Linton",
-      "street": "St Rd 54 E",
-      "country": "USA",
-      "last_checked": "Checked 34 minutes ago"
+      "last_checked": "Checked 3 minutes ago"
     },
     "type": "Feature"
   },
@@ -3775,7 +2914,28 @@
       "city": "Chicago",
       "street": "1563 N Wells",
       "country": "USA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 50 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-87.64679",
+        "41.83897",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "IL",
+      "city": "Chicago",
+      "street": "3020 S Halsted St",
+      "country": "USA",
+      "last_checked": "Checked 32 minutes ago"
     },
     "type": "Feature"
   },
@@ -3796,183 +2956,15 @@
       "city": "Chicago",
       "street": "1664 S Blue Island",
       "country": "USA",
-      "last_checked": "Checked 9 minutes ago"
+      "last_checked": "Checked 58 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-87.676211",
-        "41.505805",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Olympia Fields",
-      "street": "2400 W Lincoln Highway",
-      "country": "USA",
-      "last_checked": "Checked 38 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-87.413478",
-        "39.463941",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "IN",
-      "city": "Terre Haute",
-      "street": "222 S 3rd St",
-      "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-87.733551",
-        "41.48389",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Richton Park",
-      "street": "4855 W Sauk Trl",
-      "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-87.750711",
-        "41.880179",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Chicago",
-      "street": "5015 W Madison",
-      "country": "USA",
-      "last_checked": "Checked 45 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-86.469291",
-        "36.978623",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "KY",
-      "city": "Bowling Green",
-      "street": "1925 Russellville Rd",
-      "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-87.786249",
-        "41.93065",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Chicago",
-      "street": "2754 N Narragansett",
-      "country": "USA",
-      "last_checked": "Checked 26 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-87.795949",
-        "41.601773",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Tinley Park",
-      "street": "15920 S Harlem",
-      "country": "USA",
-      "last_checked": "Checked 38 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.014595",
-        "33.9673",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "GA",
-      "city": "Lawrenceville",
-      "street": "751 Pike St",
-      "country": "USA",
-      "last_checked": "Checked 50 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-85.247152",
-        "35.13879",
+        "-85.158681",
+        "35.20111",
         0.0
       ],
       "type": "Point"
@@ -3982,18 +2974,18 @@
       "is_active": true,
       "dot": "working",
       "state": "TN",
-      "city": "Chattanooga",
-      "street": "5440 Hwy 153",
+      "city": "Hixson",
+      "street": "8601 Hixson Pike",
       "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
+      "last_checked": "Checked 11 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-87.883431",
-        "41.863652",
+        "-87.791791",
+        "41.505579",
         0.0
       ],
       "type": "Point"
@@ -4003,10 +2995,52 @@
       "is_active": true,
       "dot": "working",
       "state": "IL",
-      "city": "Hillside",
-      "street": "4012 Roosevelt Rd",
+      "city": "Frankfort",
+      "street": "7215 W Lincoln Hwy",
       "country": "USA",
-      "last_checked": "Checked 33 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-87.864113",
+        "41.882957",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "IL",
+      "city": "Bellwood",
+      "street": "520 25th Street",
+      "country": "USA",
+      "last_checked": "Checked 27 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-87.906178",
+        "41.975317",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "IL",
+      "city": "Chicago",
+      "street": "Terminal 2 Concourse E-F",
+      "country": "USA",
+      "last_checked": "Checked 13 minutes ago"
     },
     "type": "Feature"
   },
@@ -4027,15 +3061,15 @@
       "city": "Gurnee",
       "street": "1275 N Delany Road",
       "country": "USA",
-      "last_checked": "Checked 3 minutes ago"
+      "last_checked": "Checked 53 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-87.932837",
-        "42.198282",
+        "-87.950563",
+        "42.152611",
         0.0
       ],
       "type": "Point"
@@ -4045,123 +3079,18 @@
       "is_active": true,
       "dot": "working",
       "state": "IL",
-      "city": "Lincolnshire",
-      "street": "450 Milwaukee Ave",
+      "city": "Wheeling",
+      "street": "1355 Lake Cook Road",
       "country": "USA",
-      "last_checked": "Checked 42 minutes ago"
+      "last_checked": "Checked 33 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-88.03817",
-        "41.594154",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Lockport",
-      "street": "1039 E 9th St",
-      "country": "USA",
-      "last_checked": "Checked 16 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.031654",
-        "41.9049",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Lombard",
-      "street": "540 W North Ave",
-      "country": "USA",
-      "last_checked": "Checked 12 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-83.225526",
-        "33.073645",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "GA",
-      "city": "Milledgeville",
-      "street": "611 South Wayne St",
-      "country": "USA",
-      "last_checked": "Checked 27 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.081465",
-        "41.902398",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Glendale Heights",
-      "street": "215 North Avenue",
-      "country": "USA",
-      "last_checked": "Checked 12 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.080554",
-        "41.958284",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Bloomingdale",
-      "street": "101 E Lake St",
-      "country": "USA",
-      "last_checked": "Checked 12 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.007497",
-        "42.915579",
+        "-87.911497",
+        "42.884607",
         0.0
       ],
       "type": "Point"
@@ -4171,39 +3100,18 @@
       "is_active": true,
       "dot": "working",
       "state": "WI",
-      "city": "Franklin",
-      "street": "7501 W Rawson Ave",
+      "city": "Oak Creek",
+      "street": "8800 S Howell Ave",
       "country": "USA",
-      "last_checked": "Checked 44 minutes ago"
+      "last_checked": "Checked 46 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-88.005311",
-        "43.090669",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "WI",
-      "city": "Milwaukee",
-      "street": "7451 W Appleton Ave",
-      "country": "USA",
-      "last_checked": "Checked 44 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.149807",
-        "41.939538",
+        "-88.021926",
+        "42.255606",
         0.0
       ],
       "type": "Point"
@@ -4213,18 +3121,18 @@
       "is_active": true,
       "dot": "working",
       "state": "IL",
-      "city": "Carol Stream",
-      "street": "1335 County Farm Rd",
+      "city": "Mundelein",
+      "street": "665 S Rt 83",
       "country": "USA",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 46 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-88.15193",
-        "42.258071",
+        "-88.144102",
+        "42.007011",
         0.0
       ],
       "type": "Point"
@@ -4234,39 +3142,18 @@
       "is_active": true,
       "dot": "working",
       "state": "IL",
-      "city": "Wauconda",
-      "street": "511 W Liberty St",
+      "city": "Hanover Park",
+      "street": "7455 Barrington Rd",
       "country": "USA",
-      "last_checked": "Checked 45 minutes ago"
+      "last_checked": "Checked 11 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-88.178729",
-        "41.781475",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Naperville",
-      "street": "516 N River Rd",
-      "country": "USA",
-      "last_checked": "Checked 20 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.184549",
-        "41.521346",
+        "-88.19956",
+        "41.561983",
         0.0
       ],
       "type": "Point"
@@ -4277,9 +3164,9 @@
       "dot": "working",
       "state": "IL",
       "city": "Joliet",
-      "street": "4280 W Jefferson",
+      "street": "2220 Illinois Rt 59",
       "country": "USA",
-      "last_checked": "Checked 48 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -4300,7 +3187,28 @@
       "city": "Kennesaw",
       "street": "4415 Wade Green Rd",
       "country": "USA",
-      "last_checked": "1 minute ago"
+      "last_checked": "Checked 50 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-88.204846",
+        "41.705594",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "IL",
+      "city": "Naperville",
+      "street": "3232 S Rt 59",
+      "country": "USA",
+      "last_checked": "Checked 14 minutes ago"
     },
     "type": "Feature"
   },
@@ -4321,15 +3229,36 @@
       "city": "Bartlett",
       "street": "791 S Rt 59",
       "country": "USA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 56 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-84.369594",
-        "33.774301",
+        "-88.242325",
+        "41.760955",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "IL",
+      "city": "Aurora",
+      "street": "425 N Eola",
+      "country": "USA",
+      "last_checked": "Checked 14 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-88.268928",
+        "42.019713",
         0.0
       ],
       "type": "Point"
@@ -4338,32 +3267,11 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "GA",
-      "city": "Atlanta",
-      "street": "526 Ponce De Leon Blvd",
+      "state": "IL",
+      "city": "Elgin",
+      "street": "816 Saint Charles Rd",
       "country": "USA",
-      "last_checked": "Checked 50 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.406922",
-        "33.784941",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "GA",
-      "city": "Atlanta",
-      "street": "1105 Northside Dr",
-      "country": "USA",
-      "last_checked": "Checked 47 minutes ago"
+      "last_checked": "Checked 24 minutes ago"
     },
     "type": "Feature"
   },
@@ -4384,7 +3292,7 @@
       "city": "South Elgin",
       "street": "100 N Mclean Blvd",
       "country": "USA",
-      "last_checked": "Checked 4 minutes ago"
+      "last_checked": "Checked 54 minutes ago"
     },
     "type": "Feature"
   },
@@ -4405,28 +3313,7 @@
       "city": " Elgin",
       "street": "1165 N Mclean Blvd",
       "country": "USA",
-      "last_checked": "Checked 2 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.306494",
-        "42.480561",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Richmond",
-      "street": "10607 Main St",
-      "country": "USA",
-      "last_checked": "Checked 14 minutes ago"
+      "last_checked": "Checked 51 minutes ago"
     },
     "type": "Feature"
   },
@@ -4447,15 +3334,15 @@
       "city": "Algonquin",
       "street": "125 S Randall Rd",
       "country": "USA",
-      "last_checked": "Checked 5 minutes ago"
+      "last_checked": "Checked 54 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-86.386139",
-        "35.868596",
+        "-86.599811",
+        "36.169258",
         0.0
       ],
       "type": "Point"
@@ -4465,18 +3352,18 @@
       "is_active": true,
       "dot": "working",
       "state": "TN",
-      "city": "Murfreesboro",
-      "street": "1706 Memorial Blvd",
+      "city": "Hermitage",
+      "street": "5800 Old Hickory Blvd",
       "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-84.266608",
-        "33.554238",
+        "-84.507647",
+        "33.722861",
         0.0
       ],
       "type": "Point"
@@ -4486,31 +3373,10 @@
       "is_active": true,
       "dot": "working",
       "state": "GA",
-      "city": "Stockbridge",
-      "street": "3825 Hwy 138",
+      "city": "Atlanta",
+      "street": "3670 Cascade Rd",
       "country": "USA",
-      "last_checked": "Checked 43 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-86.645302",
-        "36.079458",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "TN",
-      "city": "Nashville",
-      "street": "2499 Murfreesboro Pike",
-      "country": "USA",
-      "last_checked": "Checked 20 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
@@ -4531,7 +3397,7 @@
       "city": "De Pere",
       "street": "2421 Monroe Rd",
       "country": "USA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 51 minutes ago"
     },
     "type": "Feature"
   },
@@ -4552,15 +3418,15 @@
       "city": "Green Bay",
       "street": "1125 Radisson St",
       "country": "USA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 51 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-88.35375",
-        "43.318092",
+        "-84.842275",
+        "33.867816",
         0.0
       ],
       "type": "Point"
@@ -4569,116 +3435,32 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "WI",
-      "city": "Hartford",
-      "street": "1450 E Sumner St",
-      "country": "USA",
-      "last_checked": "Checked 42 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-84.465824",
-        "33.553299",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
       "state": "GA",
-      "city": "Riverdale",
-      "street": "7480 Old National Hwy",
+      "city": "Dallas",
+      "street": "3036 Villa Rica Highway",
       "country": "USA",
-      "last_checked": "Checked 30 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-88.100688",
-        "44.523298",
+        "-88.506851",
+        "44.286196",
         0.0
       ],
       "type": "Point"
     },
     "properties": {
-      "is_broken": true,
+      "is_broken": false,
       "is_active": true,
-      "dot": "broken",
+      "dot": "working",
       "state": "WI",
-      "city": "Green Bay",
-      "street": "2625 W Mason St",
+      "city": "Greenville",
+      "street": "W6308 Levi Dr",
       "country": "USA",
-      "last_checked": "Checked 37 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.97932",
-        "42.267564",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Rockford",
-      "street": "420 S Perryville Rd",
-      "country": "USA",
-      "last_checked": "Checked 30 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.377109",
-        "38.379374",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Fairfield",
-      "street": "1212 W Main",
-      "country": "USA",
-      "last_checked": "Checked 34 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.490314",
-        "38.679365",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Flora",
-      "street": "Us Hwy 50",
-      "country": "USA",
-      "last_checked": "Checked 18 minutes ago"
+      "last_checked": "Checked 22 minutes ago"
     },
     "type": "Feature"
   },
@@ -4699,15 +3481,15 @@
       "city": "Rochelle",
       "street": "892 Ranger Rd",
       "country": "USA",
-      "last_checked": "Checked 10 minutes ago"
+      "last_checked": "Checked 59 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-89.015834",
-        "42.428289",
+        "-89.054141",
+        "42.259664",
         0.0
       ],
       "type": "Point"
@@ -4717,18 +3499,39 @@
       "is_active": true,
       "dot": "working",
       "state": "IL",
-      "city": "Roscoe",
-      "street": "5195 Elevator Rd",
+      "city": "Rockford",
+      "street": "2622 Charles St",
       "country": "USA",
-      "last_checked": "Checked 13 minutes ago"
+      "last_checked": "Checked 20 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-88.989082",
-        "42.717687",
+        "-89.080054",
+        "42.267295",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "IL",
+      "city": "Rockford",
+      "street": "1032 E State St",
+      "country": "USA",
+      "last_checked": "Checked 14 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-89.271485",
+        "42.779156",
         0.0
       ],
       "type": "Point"
@@ -4738,18 +3541,18 @@
       "is_active": true,
       "dot": "working",
       "state": "WI",
-      "city": "Janesville",
-      "street": "2922 N Pontiac Dr",
+      "city": "Evansville",
+      "street": "9 John Lindemann Dr",
       "country": "USA",
-      "last_checked": "Checked 59 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-87.800005",
-        "36.0841",
+        "-89.404529",
+        "43.068011",
         0.0
       ],
       "type": "Point"
@@ -4758,53 +3561,11 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "TN",
-      "city": "Waverly",
-      "street": "103 Waverly Pl",
+      "state": "WI",
+      "city": "Madison",
+      "street": "1102 Regent St",
       "country": "USA",
-      "last_checked": "Checked 28 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-88.956147",
-        "38.314129",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Mount Vernon",
-      "street": "102 Potomac Boulevard",
-      "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-89.632136",
-        "42.27979",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Freeport",
-      "street": "1710 S West Ave",
-      "country": "USA",
-      "last_checked": "Checked 36 minutes ago"
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
@@ -4825,6 +3586,363 @@
       "city": "North Pekin",
       "street": "1124 Wesley Rd",
       "country": "USA",
+      "last_checked": "Checked 55 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-84.968207",
+        "32.532761",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "GA",
+      "city": "Columbus",
+      "street": "1619 Bradley Park Drive",
+      "country": "USA",
+      "last_checked": "Checked 46 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-87.293979",
+        "34.823717",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AL",
+      "city": "Rogersville",
+      "street": "101 Hwy 72 E",
+      "country": "USA",
+      "last_checked": "Checked 46 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-89.073678",
+        "37.745853",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "IL",
+      "city": "Carterville",
+      "street": "400 E Plaza Dr",
+      "country": "USA",
+      "last_checked": "Checked 8 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-88.712702",
+        "36.278166",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "TN",
+      "city": "Dresden",
+      "street": "8762 Hwy 22",
+      "country": "USA",
+      "last_checked": "Checked 8 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-90.011198",
+        "38.679085",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "IL",
+      "city": "Collinsville",
+      "street": "520 Ramada Blvd",
+      "country": "USA",
+      "last_checked": "Checked 32 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-90.733234",
+        "41.199",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "IL",
+      "city": "Aledo",
+      "street": "1402 Se Third Street",
+      "country": "USA",
+      "last_checked": "Checked 45 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-90.335484",
+        "38.626693",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MO",
+      "city": "Brentwood",
+      "street": "1595 S Hanley",
+      "country": "USA",
+      "last_checked": "Checked 10 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-90.476976",
+        "38.56686",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MO",
+      "city": "Valley Park",
+      "street": "13600 Big Bend Road",
+      "country": "USA",
+      "last_checked": "Checked 42 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-89.97632",
+        "37.30567",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MO",
+      "city": "Marble Hill",
+      "street": "315 Presnell",
+      "country": "USA",
+      "last_checked": "Checked 8 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-82.312657",
+        "29.652289",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "FL",
+      "city": "Gainesville",
+      "street": "1030 E University Ave",
+      "country": "USA",
+      "last_checked": "Checked 46 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-90.397992",
+        "36.736194",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MO",
+      "city": "Poplar Bluff",
+      "street": "550 E Hwy 53 And 142",
+      "country": "USA",
+      "last_checked": "Checked 7 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-81.858959",
+        "28.561903",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "FL",
+      "city": "Groveland",
+      "street": "460 W Broad St",
+      "country": "USA",
+      "last_checked": "Checked 26 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-91.682035",
+        "47.025036",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MN",
+      "city": "Two Harbors",
+      "street": "1130 7th Ave",
+      "country": "USA",
+      "last_checked": "Checked 46 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-92.218835",
+        "46.725079",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MN",
+      "city": "Proctor",
+      "street": "9310 W Skyline Pky",
+      "country": "USA",
+      "last_checked": "Checked 44 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-92.184797",
+        "46.822545",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MN",
+      "city": "Hermantown",
+      "street": "4301 Menard Dr",
+      "country": "USA",
+      "last_checked": "Checked 10 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-82.755291",
+        "27.990831",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "FL",
+      "city": "Clearwater",
+      "street": "1934 N Hercules Ave",
+      "country": "USA",
+      "last_checked": "Checked 33 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-93.286824",
+        "44.881997",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "MN",
+      "city": "Richfield",
+      "street": "6645 Lyndale Ave S",
+      "country": "USA",
       "last_checked": "Checked 5 minutes ago"
     },
     "type": "Feature"
@@ -4832,281 +3950,8 @@
   {
     "geometry": {
       "coordinates": [
-        "-89.604754",
-        "39.801374",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Springfield",
-      "street": "3208 East Clear Lake Avenue",
-      "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-89.493821",
-        "39.154069",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Hillsboro",
-      "street": "728 W Main St",
-      "country": "USA",
-      "last_checked": "Checked 39 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-81.60418",
-        "30.172703",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "FL",
-      "city": "Jacksonville",
-      "street": "11230 Old St Augustine Rd",
-      "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-90.607541",
-        "41.560435",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IA",
-      "city": "Davenport",
-      "street": "2110 W Kimberly Rd",
-      "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-90.438306",
-        "40.004639",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Beardstown",
-      "street": "1 Plaza Street",
-      "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-90.674188",
-        "42.45903",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IA",
-      "city": "Dubuque",
-      "street": "2250 Flint Hill Dr",
-      "country": "USA",
-      "last_checked": "Checked 48 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-90.280827",
-        "38.767875",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MO",
-      "city": "Ferguson",
-      "street": "10873 W Florissant Ave",
-      "country": "USA",
-      "last_checked": "Checked 15 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-90.680453",
-        "40.458428",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IL",
-      "city": "Macomb",
-      "street": "625 W Jackson St",
-      "country": "USA",
-      "last_checked": "Checked 28 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-90.821412",
-        "43.938201",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "WI",
-      "city": "Sparta",
-      "street": "620 S Black River St",
-      "country": "USA",
-      "last_checked": "Checked 13 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-91.50895",
-        "41.643516",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "IA",
-      "city": "Iowa City",
-      "street": "1861 Lower Muscatine Rd",
-      "country": "USA",
-      "last_checked": "Checked 28 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-82.579599",
-        "28.085459",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "FL",
-      "city": "Odessa",
-      "street": "8506 Gunn Hwy",
-      "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-93.025833",
-        "45.029664",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "MN",
-      "city": "Maplewood",
-      "street": "2935 Southlawn Dr",
-      "country": "USA",
-      "last_checked": "Checked 13 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-93.070432",
-        "39.775132",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MO",
-      "city": "Brookfield",
-      "street": "640 S Main St",
-      "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-93.260965",
-        "44.172072",
+        "-93.338442",
+        "45.031656",
         0.0
       ],
       "type": "Point"
@@ -5116,39 +3961,18 @@
       "is_active": true,
       "dot": "working",
       "state": "MN",
-      "city": "Medford",
-      "street": "6874 W Frontage Rd",
+      "city": "Robbinsdale",
+      "street": "4601 Lake Dr",
       "country": "USA",
-      "last_checked": "Checked 13 minutes ago"
+      "last_checked": "Checked 44 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-93.278318",
-        "44.958971",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MN",
-      "city": "Minneapolis",
-      "street": "2400 Nicollet Ave S",
-      "country": "USA",
-      "last_checked": "Checked 56 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-93.300162",
-        "45.109202",
+        "-93.377325",
+        "45.092916",
         0.0
       ],
       "type": "Point"
@@ -5159,59 +3983,17 @@
       "dot": "working",
       "state": "MN",
       "city": "Brooklyn Park",
-      "street": "1480 85th Ave N",
+      "street": "7685 West Broadway",
       "country": "USA",
-      "last_checked": "Checked 36 minutes ago"
+      "last_checked": "Checked 4 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-93.426566",
-        "44.91967",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MN",
-      "city": "Minnetonka",
-      "street": "4637 Shady Oak Rd",
-      "country": "USA",
-      "last_checked": "Checked 50 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-93.452528",
-        "45.105493",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MN",
-      "city": "Maple Grove",
-      "street": "13595 83rd Way",
-      "country": "USA",
-      "last_checked": "Checked 14 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-93.771741",
-        "41.601013",
+        "-93.737379",
+        "41.660138",
         0.0
       ],
       "type": "Point"
@@ -5221,10 +4003,10 @@
       "is_active": true,
       "dot": "working",
       "state": "IA",
-      "city": "Clive",
-      "street": "11400 Forest Ln",
+      "city": "Johnston",
+      "street": "5494 Nw 86th St",
       "country": "USA",
-      "last_checked": "Checked 26 minutes ago"
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
@@ -5245,6 +4027,48 @@
       "city": "Mankato",
       "street": "1921 Adams St",
       "country": "USA",
+      "last_checked": "Checked 58 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-92.480538",
+        "36.288062",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AR",
+      "city": "Gassville",
+      "street": "7403 Hwy 62 W",
+      "country": "USA",
+      "last_checked": "Checked 14 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-92.189846",
+        "34.717661",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AR",
+      "city": "Little Rock",
+      "street": "8710 Fourche Dam Pike",
+      "country": "USA",
       "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
@@ -5252,8 +4076,8 @@
   {
     "geometry": {
       "coordinates": [
-        "-93.109992",
-        "37.272903",
+        "-80.336621",
+        "25.979212",
         0.0
       ],
       "type": "Point"
@@ -5262,19 +4086,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "MO",
-      "city": "Strafford",
-      "street": "333 E Evergreen Rd",
+      "state": "FL",
+      "city": "Miramar",
+      "street": "14301 Miramar Pkwy",
       "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-93.232761",
-        "37.023633",
+        "-92.341995",
+        "34.714205",
         0.0
       ],
       "type": "Point"
@@ -5283,103 +4107,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "MO",
-      "city": "Ozark",
-      "street": "401 N 21st St",
+      "state": "AR",
+      "city": "Little Rock",
+      "street": "4111 S University Ave",
       "country": "USA",
-      "last_checked": "Checked 57 minutes ago"
+      "last_checked": "Checked 18 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-93.52933",
-        "47.21809",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MN",
-      "city": "Grand Rapids",
-      "street": "1221 Pokegama Ave S",
-      "country": "USA",
-      "last_checked": "Checked 59 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-90.229131",
-        "32.291364",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MS",
-      "city": "Jackson",
-      "street": "2465 Hwy 80 W",
-      "country": "USA",
-      "last_checked": "Checked 44 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-94.305959",
-        "39.033113",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MO",
-      "city": "Blue Springs",
-      "street": "1515 N Woods Chapel Rd",
-      "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-94.462519",
-        "39.243844",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "MO",
-      "city": "Kansas City",
-      "street": "9851 Ne Barry Rd",
-      "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-80.286927",
-        "25.777626",
+        "-80.381169",
+        "25.811162",
         0.0
       ],
       "type": "Point"
@@ -5390,17 +4130,17 @@
       "dot": "working",
       "state": "FL",
       "city": "Miami",
-      "street": "5650 Nw 7th Street",
+      "street": "11390 Nw 41st Street",
       "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-94.584981",
-        "39.066975",
+        "-94.680555",
+        "39.052108",
         0.0
       ],
       "type": "Point"
@@ -5409,40 +4149,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "MO",
+      "state": "KS",
       "city": "Kansas City",
-      "street": "3255 Main St",
+      "street": "4427 Shawnee Dr",
       "country": "USA",
-      "last_checked": "Checked 59 minutes ago"
+      "last_checked": "Checked 18 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-81.769094",
-        "26.213836",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "FL",
-      "city": "Naples",
-      "street": "5465 N Airport Rd",
-      "country": "USA",
-      "last_checked": "Checked 37 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-94.679227",
-        "38.855103",
+        "-94.844864",
+        "39.00833",
         0.0
       ],
       "type": "Point"
@@ -5452,31 +4171,10 @@
       "is_active": true,
       "dot": "working",
       "state": "KS",
-      "city": "Overland Park",
-      "street": "7926 W 151st St",
+      "city": "Shawnee",
+      "street": "22315 W 66th Street",
       "country": "USA",
-      "last_checked": "Checked 36 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-94.981982",
-        "38.961939",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "KS",
-      "city": "De Soto",
-      "street": "34225 Commerce Dr",
-      "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
+      "last_checked": "Checked 7 minutes ago"
     },
     "type": "Feature"
   },
@@ -5497,15 +4195,36 @@
       "city": "Mccomb",
       "street": "101 Edgewood Dr",
       "country": "USA",
-      "last_checked": "Checked 11 minutes ago"
+      "last_checked": "Checked 60 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-95.868113",
-        "41.261549",
+        "-94.179787",
+        "36.35567",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "AR",
+      "city": "Bentonville",
+      "street": "1401 Phyllis St",
+      "country": "USA",
+      "last_checked": "Checked 16 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-95.933799",
+        "41.232764",
         0.0
       ],
       "type": "Point"
@@ -5514,32 +4233,32 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "IA",
-      "city": "Council Bluffs",
-      "street": "1607 W Broadway",
+      "state": "NE",
+      "city": "Omaha",
+      "street": "2760 S 13th St",
       "country": "USA",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 37 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-89.761658",
-        "30.247523",
+        "-95.958293",
+        "41.327098",
         0.0
       ],
       "type": "Point"
     },
     "properties": {
-      "is_broken": false,
+      "is_broken": true,
       "is_active": true,
-      "dot": "working",
-      "state": "LA",
-      "city": "Slidell",
-      "street": "370 Voters Rd",
+      "dot": "broken",
+      "state": "NE",
+      "city": "Omaha",
+      "street": "7400 N 30th",
       "country": "USA",
-      "last_checked": "Checked 29 minutes ago"
+      "last_checked": "Checked 14 minutes ago"
     },
     "type": "Feature"
   },
@@ -5560,36 +4279,15 @@
       "city": "Omaha",
       "street": "3909 S 42nd",
       "country": "USA",
-      "last_checked": "Checked 10 minutes ago"
+      "last_checked": "Checked 59 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-89.958336",
-        "30.043728",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "LA",
-      "city": "New Orleans",
-      "street": "6005 Bullard Rd",
-      "country": "USA",
-      "last_checked": "Checked 27 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-92.640033",
-        "32.525514",
+        "-92.075086",
+        "32.568079",
         0.0
       ],
       "type": "Point"
@@ -5599,18 +4297,18 @@
       "is_active": true,
       "dot": "working",
       "state": "LA",
-      "city": "Ruston",
-      "street": "400 S Trenton",
+      "city": "Monroe",
+      "street": "4095 Sterlington Road",
       "country": "USA",
-      "last_checked": "Checked 13 minutes ago"
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-96.890249",
-        "46.876227",
+        "-96.140533",
+        "41.233396",
         0.0
       ],
       "type": "Point"
@@ -5619,19 +4317,19 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "ND",
-      "city": "West Fargo",
-      "street": "501 Main Ave E",
+      "state": "NE",
+      "city": "Omaha",
+      "street": "14449 W Center Rd",
       "country": "USA",
-      "last_checked": "Checked 45 minutes ago"
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-95.9731",
-        "36.060258",
+        "-94.522811",
+        "35.405646",
         0.0
       ],
       "type": "Point"
@@ -5641,18 +4339,18 @@
       "is_active": true,
       "dot": "working",
       "state": "OK",
-      "city": "Tulsa",
-      "street": "1406 E 71st",
+      "city": "Roland",
+      "street": "126 W Ray Fine Blvd",
       "country": "USA",
-      "last_checked": "Checked 55 minutes ago"
+      "last_checked": "Checked 47 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-92.268858",
-        "30.253426",
+        "-92.913898",
+        "32.560053",
         0.0
       ],
       "type": "Point"
@@ -5662,18 +4360,18 @@
       "is_active": true,
       "dot": "working",
       "state": "LA",
-      "city": "Rayne",
-      "street": "1026 Church Point Hwy",
+      "city": "Arcadia",
+      "street": "1196 Hazel St",
       "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
+      "last_checked": "Checked 11 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-96.67185",
-        "35.237491",
+        "-97.485303",
+        "35.435845",
         0.0
       ],
       "type": "Point"
@@ -5683,10 +4381,10 @@
       "is_active": true,
       "dot": "working",
       "state": "OK",
-      "city": "Seminole",
-      "street": "1423 Milt Phillips Blvd",
+      "city": "Oklahoma City",
+      "street": "1501 Se 29th St",
       "country": "USA",
-      "last_checked": "Checked 35 minutes ago"
+      "last_checked": "Checked 19 minutes ago"
     },
     "type": "Feature"
   },
@@ -5707,15 +4405,15 @@
       "city": "Norman",
       "street": "351 E Robinson",
       "country": "USA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 55 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-97.548431",
-        "35.376684",
+        "-96.645571",
+        "33.084261",
         0.0
       ],
       "type": "Point"
@@ -5724,32 +4422,11 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "OK",
-      "city": "Oklahoma City",
-      "street": "9001 S Pennsylvania",
-      "country": "USA",
-      "last_checked": "Checked 37 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-96.719344",
-        "32.975974",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
       "state": "TX",
-      "city": "Richardson",
-      "street": "170 W Campbell Rd",
+      "city": "Allen",
+      "street": "815 S Allen Heights Dr",
       "country": "USA",
-      "last_checked": "Checked 12 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
@@ -5770,36 +4447,15 @@
       "city": "Dallas",
       "street": "11749 Plano Rd",
       "country": "USA",
-      "last_checked": "Checked 2 minutes ago"
+      "last_checked": "Checked 52 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-94.385063",
-        "29.83391",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "TX",
-      "city": "Winnie",
-      "street": "45951 Ih 10",
-      "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-97.035595",
-        "33.041775",
+        "-96.790682",
+        "32.815443",
         0.0
       ],
       "type": "Point"
@@ -5809,18 +4465,39 @@
       "is_active": true,
       "dot": "working",
       "state": "TX",
-      "city": "Lewisville",
-      "street": "1598 W Main St",
+      "city": "Dallas",
+      "street": "4151 N Central Expy",
       "country": "USA",
-      "last_checked": "Checked 44 minutes ago"
+      "last_checked": "Checked 15 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-96.173929",
-        "31.717866",
+        "-98.474177",
+        "34.609568",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "OK",
+      "city": "Lawton",
+      "street": "1 Nw 67th St",
+      "country": "USA",
+      "last_checked": "Checked 12 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-95.624287",
+        "29.994682",
         0.0
       ],
       "type": "Point"
@@ -5830,18 +4507,18 @@
       "is_active": true,
       "dot": "working",
       "state": "TX",
-      "city": "Fairfield",
-      "street": "669 W Hwy 84",
+      "city": "Cypress",
+      "street": "13300 Louetta Road",
       "country": "USA",
-      "last_checked": "Checked 19 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-100.7821",
-        "46.805091",
+        "-101.294876",
+        "48.229759",
         0.0
       ],
       "type": "Point"
@@ -5851,29 +4528,8 @@
       "is_active": true,
       "dot": "working",
       "state": "ND",
-      "city": "Bismarck",
-      "street": "605 E Main Ave",
-      "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-100.792459",
-        "46.795605",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "ND",
-      "city": "Bismarck",
-      "street": "150 Bismarck Expy",
+      "city": "Minot",
+      "street": "711 S Broadway",
       "country": "USA",
       "last_checked": "Checked 49 minutes ago"
     },
@@ -5882,8 +4538,8 @@
   {
     "geometry": {
       "coordinates": [
-        "-95.402559",
-        "29.678332",
+        "-97.690462",
+        "30.412538",
         0.0
       ],
       "type": "Point"
@@ -5893,18 +4549,18 @@
       "is_active": true,
       "dot": "working",
       "state": "TX",
-      "city": "Houston",
-      "street": "1619 S Loop W",
+      "city": "Austin",
+      "street": "12443 Metric Blvd",
       "country": "USA",
-      "last_checked": "Checked 38 minutes ago"
+      "last_checked": "Checked 13 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-96.361588",
-        "30.695643",
+        "-97.762868",
+        "30.223619",
         0.0
       ],
       "type": "Point"
@@ -5914,39 +4570,18 @@
       "is_active": true,
       "dot": "working",
       "state": "TX",
-      "city": "Bryan",
-      "street": "2930 E Hwy 21",
+      "city": "Austin",
+      "street": "3909 S Congress Ave",
       "country": "USA",
-      "last_checked": "Checked 59 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-97.460218",
-        "29.516505",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "TX",
-      "city": "Gonzales",
-      "street": "309 W Highway 90a",
-      "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-98.277101",
-        "29.598707",
+        "-104.756228",
+        "39.613104",
         0.0
       ],
       "type": "Point"
@@ -5955,30 +4590,9 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "TX",
-      "city": "Schertz",
-      "street": "17480 I 35 N",
-      "country": "USA",
-      "last_checked": "Checked 20 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-105.07827",
-        "40.523929",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
       "state": "CO",
-      "city": "Fort Collins",
-      "street": "4525 S College Ave",
+      "city": "Aurora",
+      "street": "19893 E Smoky Hill Rd",
       "country": "USA",
       "last_checked": "Checked 32 minutes ago"
     },
@@ -5987,8 +4601,8 @@
   {
     "geometry": {
       "coordinates": [
-        "-104.662947",
-        "38.233541",
+        "-105.496917",
+        "39.741507",
         0.0
       ],
       "type": "Point"
@@ -5998,18 +4612,18 @@
       "is_active": true,
       "dot": "working",
       "state": "CO",
-      "city": "Pueblo",
-      "street": "1921 S Pueblo Blvd",
+      "city": "Idaho Springs",
+      "street": "2911 Colorado Blvd",
       "country": "USA",
-      "last_checked": "Checked 41 minutes ago"
+      "last_checked": "Checked 9 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-97.6729",
-        "26.171918",
+        "-98.289113",
+        "26.194476",
         0.0
       ],
       "type": "Point"
@@ -6019,18 +4633,39 @@
       "is_active": true,
       "dot": "working",
       "state": "TX",
-      "city": "Harlingen",
-      "street": "2020 S Sunshine Strip",
+      "city": "Mission",
+      "street": "804 S Shary Rd",
       "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
+      "last_checked": "Checked 16 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-104.669558",
-        "34.944317",
+        "-106.691466",
+        "35.241976",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": true,
+      "is_active": true,
+      "dot": "broken",
+      "state": "NM",
+      "city": "Rio Rancho",
+      "street": "2109 Southern Blvd. Se",
+      "country": "USA",
+      "last_checked": "Checked 47 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-106.642686",
+        "35.089728",
         0.0
       ],
       "type": "Point"
@@ -6040,18 +4675,39 @@
       "is_active": true,
       "dot": "working",
       "state": "NM",
-      "city": "Santa Rosa",
-      "street": "1504 Will Rogers Dr",
+      "city": "Albuquerque",
+      "street": "300 Lomas Blvd Ne",
       "country": "USA",
-      "last_checked": "Checked 26 minutes ago"
+      "last_checked": "Checked 13 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-98.798329",
-        "26.370392",
+        "-106.65464",
+        "35.070694",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "NM",
+      "city": "Albuquerque",
+      "street": "1523 4th St South",
+      "country": "USA",
+      "last_checked": "Checked 11 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-106.396127",
+        "31.788923",
         0.0
       ],
       "type": "Point"
@@ -6061,39 +4717,18 @@
       "is_active": true,
       "dot": "working",
       "state": "TX",
-      "city": "Rio Grande City",
-      "street": "4290 E Expy 83",
+      "city": "El Paso",
+      "street": "1515 Airways Blvd",
       "country": "USA",
-      "last_checked": "Checked 20 minutes ago"
+      "last_checked": "Checked 14 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-104.397921",
-        "32.84041",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
-      "state": "NM",
-      "city": "Artesia",
-      "street": "210 South First Street",
-      "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-105.958806",
-        "35.660022",
+        "-114.519277",
+        "42.694754",
         0.0
       ],
       "type": "Point"
@@ -6102,156 +4737,9 @@
       "is_broken": false,
       "is_active": true,
       "dot": "working",
-      "state": "NM",
-      "city": "Santa Fe",
-      "street": "1621 Pacheco St",
-      "country": "USA",
-      "last_checked": "Checked 22 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-112.465672",
-        "42.910992",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": true,
-      "is_active": true,
-      "dot": "broken",
       "state": "ID",
-      "city": "Chubbuck",
-      "street": "4260 Yellowstone Avenue",
-      "country": "USA",
-      "last_checked": "Checked 27 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-111.900213",
-        "40.675179",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "UT",
-      "city": "Murray",
-      "street": "4452 S 300 West",
-      "country": "USA",
-      "last_checked": "Checked 24 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-119.15821",
-        "46.208939",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "WA",
-      "city": "Kennewick",
-      "street": "2721 W Kennewick Ave",
-      "country": "USA",
-      "last_checked": "Checked 27 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-120.322898",
-        "46.375451",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "WA",
-      "city": "Toppenish",
-      "street": "739 W 1st Ave",
-      "country": "USA",
-      "last_checked": "Checked 21 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-117.520424",
-        "33.888794",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "CA",
-      "city": "Corona",
-      "street": "400 Mckinley St",
-      "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-117.708221",
-        "33.566074",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "CA",
-      "city": "Laguna Niguel",
-      "street": "27331 La Paz Rd",
-      "country": "USA",
-      "last_checked": "Checked 26 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-118.208504",
-        "34.04631",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "CA",
-      "city": "Los Angeles",
-      "street": "245 N Soto St",
+      "city": "Jerome",
+      "street": "2611 S Lincoln St",
       "country": "USA",
       "last_checked": "Checked 46 minutes ago"
     },
@@ -6260,8 +4748,29 @@
   {
     "geometry": {
       "coordinates": [
-        "-118.246658",
-        "34.115196",
+        "-111.001262",
+        "32.136258",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "AZ",
+      "city": "Tucson",
+      "street": "1650 W Valencia (Wm#1612)",
+      "country": "USA",
+      "last_checked": "Checked 17 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-117.353085",
+        "47.785715",
         0.0
       ],
       "type": "Point"
@@ -6270,19 +4779,103 @@
       "is_broken": true,
       "is_active": true,
       "dot": "broken",
-      "state": "CA",
-      "city": "Los Angeles",
-      "street": "3124 San Fernando",
+      "state": "WA",
+      "city": "Mead",
+      "street": "14118 N Newport Hwy",
       "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-118.26815",
-        "34.070595",
+        "-114.442661",
+        "36.538711",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "NV",
+      "city": "Overton",
+      "street": "310 S Moapa Blvd",
+      "country": "USA",
+      "last_checked": "Checked 16 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-115.250261",
+        "36.241028",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "NV",
+      "city": "Las Vegas",
+      "street": "7150 W Craig Rd",
+      "country": "USA",
+      "last_checked": "Checked 9 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-115.279707",
+        "36.125491",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "NV",
+      "city": "Las Vegas",
+      "street": "8635 W Spring Mountain",
+      "country": "USA",
+      "last_checked": "Checked 16 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-120.529998",
+        "46.647165",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "WA",
+      "city": "Selah",
+      "street": "499 S 1st St",
+      "country": "USA",
+      "last_checked": "Checked 16 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-117.139182",
+        "34.069729",
         0.0
       ],
       "type": "Point"
@@ -6292,18 +4885,60 @@
       "is_active": true,
       "dot": "working",
       "state": "CA",
-      "city": "Los Angeles",
-      "street": "405 N Alvarado St",
+      "city": "Redlands",
+      "street": "1796 E Lugonia Ave",
       "country": "USA",
-      "last_checked": "Checked 19 minutes ago"
+      "last_checked": "Checked 46 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-118.298531",
-        "33.872597",
+        "-122.29827",
+        "47.839551",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "WA",
+      "city": "Lynnwood",
+      "street": "17531 Hwy 99",
+      "country": "USA",
+      "last_checked": "Checked 22 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-122.553094",
+        "47.122401",
+        0.0
+      ],
+      "type": "Point"
+    },
+    "properties": {
+      "is_broken": false,
+      "is_active": true,
+      "dot": "working",
+      "state": "WA",
+      "city": "Lakewood",
+      "street": "15004 Union Ave Sw",
+      "country": "USA",
+      "last_checked": "Checked 45 minutes ago"
+    },
+    "type": "Feature"
+  },
+  {
+    "geometry": {
+      "coordinates": [
+        "-117.392262",
+        "33.225186",
         0.0
       ],
       "type": "Point"
@@ -6313,18 +4948,18 @@
       "is_active": true,
       "dot": "working",
       "state": "CA",
-      "city": "Gardena",
-      "street": "1398 Artesia Blvd",
+      "city": "Camp Pendleton",
+      "street": "20844 Vandegrift Blvd",
       "country": "USA",
-      "last_checked": "Checked 26 minutes ago"
+      "last_checked": "Checked 10 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-121.41585",
-        "38.59673",
+        "-119.656574",
+        "36.342969",
         0.0
       ],
       "type": "Point"
@@ -6334,10 +4969,10 @@
       "is_active": true,
       "dot": "working",
       "state": "CA",
-      "city": "Sacramento",
-      "street": "1721 Howe Ave",
+      "city": "Hanford",
+      "street": "810 W Grangeville",
       "country": "USA",
-      "last_checked": "Checked 25 minutes ago"
+      "last_checked": "Checked 8 minutes ago"
     },
     "type": "Feature"
   },
@@ -6358,36 +4993,15 @@
       "city": "Westley",
       "street": "4561 Howard Rd",
       "country": "USA",
-      "last_checked": "Checked 6 minutes ago"
+      "last_checked": "Checked 55 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-123.308321",
-        "42.436527",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OR",
-      "city": "Grants Pass",
-      "street": "204 Ne Beacon Dr",
-      "country": "USA",
-      "last_checked": "Checked 31 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-121.655269",
-        "37.150625",
+        "-122.617196",
+        "38.929988",
         0.0
       ],
       "type": "Point"
@@ -6397,18 +5011,18 @@
       "is_active": true,
       "dot": "working",
       "state": "CA",
-      "city": "Morgan Hill",
-      "street": "135 Cochrane Plz",
+      "city": "Clearlake",
+      "street": "15940 Dam Rd",
       "country": "USA",
-      "last_checked": "Checked 23 minutes ago"
+      "last_checked": "Checked 48 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-122.00552",
-        "37.525716",
+        "-121.605601",
+        "36.680134",
         0.0
       ],
       "type": "Point"
@@ -6418,39 +5032,18 @@
       "is_active": true,
       "dot": "working",
       "state": "CA",
-      "city": "Newark",
-      "street": "3000 Newpark Mall Rd",
+      "city": "Salinas",
+      "street": "608 Williams Rd",
       "country": "USA",
-      "last_checked": "Checked 19 minutes ago"
+      "last_checked": "Checked 11 minutes ago"
     },
     "type": "Feature"
   },
   {
     "geometry": {
       "coordinates": [
-        "-124.28712",
-        "42.053332",
-        0.0
-      ],
-      "type": "Point"
-    },
-    "properties": {
-      "is_broken": false,
-      "is_active": true,
-      "dot": "working",
-      "state": "OR",
-      "city": "Brookings",
-      "street": "815 Chetco Ave",
-      "country": "USA",
-      "last_checked": "Checked 22 minutes ago"
-    },
-    "type": "Feature"
-  },
-  {
-    "geometry": {
-      "coordinates": [
-        "-156.67753",
-        "20.971772",
+        "-157.913406",
+        "21.345912",
         0.0
       ],
       "type": "Point"
@@ -6460,10 +5053,10 @@
       "is_active": true,
       "dot": "working",
       "state": "HI",
-      "city": "Lahaina",
-      "street": "4403 Honoapiilani Hwy",
+      "city": "Honolulu",
+      "street": "848 Ala Lilikoi St",
       "country": "USA",
-      "last_checked": "Checked 27 minutes ago"
+      "last_checked": "Checked 11 minutes ago"
     },
     "type": "Feature"
   }
