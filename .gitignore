@@ -1,0 +1,2 @@
+# Ignore sqlite databases.
+*.db
