@@ -11,17 +11,21 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - name: Download recently changed markers
-      run: |
-        curl \
-          --http1.1 \
-          --retry 3 --retry-delay 2 \
-          --compressed \
-          --output /tmp/markers.json \
-          https://mcbroken.com/markers.json
+      uses: nick-fields/retry@v3
+      with:
+        max_attempts: 3
+        timeout_seconds: 30
+        command: |
+          curl \
+            --http1.1 \
+            --compressed \
+            --no-progress-meter \
+            --output /tmp/markers.json \
+            https://mcbroken.com/markers.json
 
-        jq \
-          '[ .features[] | select(.properties.last_checked | match("[0-9]+").string | tonumber < 61) ]' \
-          /tmp/markers.json > mcbroken.json
+          jq \
+            '[ .features[] | select(.properties.last_checked | match("[0-9]+").string | tonumber < 61) ]' \
+            /tmp/markers.json > mcbroken.json
     - name: Upload artifact for debugging
       uses: actions/upload-artifact@v4
       if: failure()
